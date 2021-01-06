@@ -1,0 +1,6 @@
+{
+    "price_lessthan50": 510,
+    "price_lessthan100": 407,
+    "price_lessthan150": 50,
+    "price_morethan150": 34
+}

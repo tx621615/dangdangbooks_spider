@@ -1,0 +1,5027 @@
+{
+    "commentnum_lessthan100_books": {
+        "commentnum_lessthan100_booksNum": 554,
+        "commentnum_lessthan100_books": [
+            {
+                "index": "53",
+                "name": "Python自动化编程实战—让繁琐工作自动化",
+                "commentNum": 41
+            },
+            {
+                "index": "59",
+                "name": "Python和Dask数据科学",
+                "commentNum": 38
+            },
+            {
+                "index": "73",
+                "name": "Python代码整洁之道：编写优雅的代码",
+                "commentNum": 95
+            },
+            {
+                "index": "86",
+                "name": "Python高手修炼之道：数据处理与机器学习实战",
+                "commentNum": 70
+            },
+            {
+                "index": "90",
+                "name": "算法之美—Python语言实现 视频+案例+图解",
+                "commentNum": 41
+            },
+            {
+                "index": "96",
+                "name": "Python金融大数据分析 第二2版 金融数据科学算法交易量化金融计算入门书籍 金融科技计算机",
+                "commentNum": 66
+            },
+            {
+                "index": "103",
+                "name": "Python无监督机器学习最佳实践",
+                "commentNum": 32
+            },
+            {
+                "index": "105",
+                "name": "写给程序员的Python教程",
+                "commentNum": 19
+            },
+            {
+                "index": "111",
+                "name": "Python深度学习异常检测 使用Keras和PyTorch",
+                "commentNum": 75
+            },
+            {
+                "index": "113",
+                "name": "少儿编程趣学指南：Scratch3.0篇+Python篇 （全2册，全彩印刷）",
+                "commentNum": 18
+            },
+            {
+                "index": "114",
+                "name": "Python基础教程 第3版+Office 2016实战技巧精粹辞典（全技巧视频版）",
+                "commentNum": 13
+            },
+            {
+                "index": "124",
+                "name": "Python数据分析案例实战(慕课版）",
+                "commentNum": 87
+            },
+            {
+                "index": "132",
+                "name": "Python核心编程 第3版 习题解答",
+                "commentNum": 13
+            },
+            {
+                "index": "133",
+                "name": "Python编程终极指南",
+                "commentNum": 39
+            },
+            {
+                "index": "135",
+                "name": "Python迁移学习",
+                "commentNum": 82
+            },
+            {
+                "index": "136",
+                "name": "编程超有趣 Scratch、Python、HTML、JavaScript编程轻松入门 （附给家长和老师的指导手册）",
+                "commentNum": 6
+            },
+            {
+                "index": "141",
+                "name": "Python全栈开发三剑客（套装共3册）",
+                "commentNum": 77
+            },
+            {
+                "index": "145",
+                "name": "Python程序设计教程（普通高等教育新工科人才培养规划教材（大数据专业））",
+                "commentNum": 19
+            },
+            {
+                "index": "146",
+                "name": "Python程序设计 编程基础、Web开发及数据分析",
+                "commentNum": 1
+            },
+            {
+                "index": "147",
+                "name": "Python数据分析：零基础入门到实战开发",
+                "commentNum": 19
+            },
+            {
+                "index": "148",
+                "name": "Python科学计算入门与实战（视频教学版）",
+                "commentNum": 0
+            },
+            {
+                "index": "150",
+                "name": "Python图像处理实战",
+                "commentNum": 12
+            },
+            {
+                "index": "155",
+                "name": "编程小屋 Python 3.0 趣味教程",
+                "commentNum": 45
+            },
+            {
+                "index": "157",
+                "name": "Python基础实例教程（普通高等教育“十三五”规划教材（计算机专业群））",
+                "commentNum": 77
+            },
+            {
+                "index": "159",
+                "name": "Python实战指南——手把手教你掌握300个精彩案例",
+                "commentNum": 99
+            },
+            {
+                "index": "163",
+                "name": "Python量化金融编程从入门到精通",
+                "commentNum": 1
+            },
+            {
+                "index": "169",
+                "name": "零基础学Python爬虫 数据分析与可视化从入门到精通",
+                "commentNum": 0
+            },
+            {
+                "index": "176",
+                "name": "Python量化炒期货入门与实战技巧",
+                "commentNum": 55
+            },
+            {
+                "index": "180",
+                "name": "例解Python：Python编程快速入门践行指南",
+                "commentNum": 3
+            },
+            {
+                "index": "183",
+                "name": "Python网络爬虫案例实战",
+                "commentNum": 0
+            },
+            {
+                "index": "185",
+                "name": "Python数据科学与人工智能应用实战",
+                "commentNum": 0
+            },
+            {
+                "index": "186",
+                "name": "精通Python（微课视频版）",
+                "commentNum": 0
+            },
+            {
+                "index": "192",
+                "name": "创新创业+新工科教学质量研究——零基础学会Python人工智能",
+                "commentNum": 61
+            },
+            {
+                "index": "195",
+                "name": "Python数据分析",
+                "commentNum": 70
+            },
+            {
+                "index": "200",
+                "name": "Python 3高级教程（第3版）",
+                "commentNum": 6
+            },
+            {
+                "index": "201",
+                "name": "Python数据分析与实践",
+                "commentNum": 74
+            },
+            {
+                "index": "205",
+                "name": "Jupyter Notebook数据分析入门与实战",
+                "commentNum": 45
+            },
+            {
+                "index": "212",
+                "name": "Python语言在Abaqus中的应用 第2版",
+                "commentNum": 76
+            },
+            {
+                "index": "213",
+                "name": "Python程序设计语言项目化教程",
+                "commentNum": 0
+            },
+            {
+                "index": "216",
+                "name": "Python程序设计与案例教程",
+                "commentNum": 27
+            },
+            {
+                "index": "219",
+                "name": "Python金融衍生品大数据分析：建模、模拟、校准与对冲",
+                "commentNum": 7
+            },
+            {
+                "index": "220",
+                "name": "Python面试通关宝典",
+                "commentNum": 0
+            },
+            {
+                "index": "223",
+                "name": "Python基础与深度学习实战",
+                "commentNum": 40
+            },
+            {
+                "index": "227",
+                "name": "基于Python的交互式数据可视化编程",
+                "commentNum": 0
+            },
+            {
+                "index": "230",
+                "name": "Python大数据技术应用实践",
+                "commentNum": 1
+            },
+            {
+                "index": "231",
+                "name": "基于Python的无监督学习",
+                "commentNum": 0
+            },
+            {
+                "index": "233",
+                "name": "Python并行编程实战（第二版）",
+                "commentNum": 0
+            },
+            {
+                "index": "234",
+                "name": "Python渗透测试编程技术：方法与实践（第2版）",
+                "commentNum": 0
+            },
+            {
+                "index": "237",
+                "name": "Python程序设计第一课",
+                "commentNum": 70
+            },
+            {
+                "index": "238",
+                "name": "Python股票量化交易从入门到实践 股票炒股书籍趋势技术分析入门基础知识 量化投资金融大数据风控金",
+                "commentNum": 29
+            },
+            {
+                "index": "240",
+                "name": "Python忍者秘籍",
+                "commentNum": 68
+            },
+            {
+                "index": "241",
+                "name": "微软MTA认证98-381Python高分必看——100小时Python从0到1完全学习实战",
+                "commentNum": 1
+            },
+            {
+                "index": "242",
+                "name": "机器学习中的概率统计 Python语言描述",
+                "commentNum": 0
+            },
+            {
+                "index": "243",
+                "name": "Python程序设计",
+                "commentNum": 0
+            },
+            {
+                "index": "249",
+                "name": "Python数据处理、分析、可视化与数据化运营",
+                "commentNum": 24
+            },
+            {
+                "index": "250",
+                "name": "Python模块参考手册·系统与控制（全彩版）",
+                "commentNum": 32
+            },
+            {
+                "index": "257",
+                "name": "Python机器学习",
+                "commentNum": 47
+            },
+            {
+                "index": "258",
+                "name": "Python编程快速上手 让繁琐工作自动化 python 编程 自动化",
+                "commentNum": 21
+            },
+            {
+                "index": "263",
+                "name": "Python应用实战：爬虫、文本分析与可视化",
+                "commentNum": 52
+            },
+            {
+                "index": "265",
+                "name": "生命科学家的Python指南",
+                "commentNum": 0
+            },
+            {
+                "index": "266",
+                "name": "Jupyter数据科学实战",
+                "commentNum": 9
+            },
+            {
+                "index": "267",
+                "name": "从零开始：Python基础培训教程",
+                "commentNum": 7
+            },
+            {
+                "index": "269",
+                "name": "Python开发实践教程（高等职业教育“十三五”规划教材）",
+                "commentNum": 56
+            },
+            {
+                "index": "270",
+                "name": "Python编程从小白到大牛",
+                "commentNum": 1
+            },
+            {
+                "index": "273",
+                "name": "Python编程：从入门到精通（微课版）",
+                "commentNum": 14
+            },
+            {
+                "index": "274",
+                "name": "Python金融分析入门到实战:基于Python的金融分析与风险管理+Python金融实战案例精粹",
+                "commentNum": 24
+            },
+            {
+                "index": "277",
+                "name": "Python程序员面试秘笈",
+                "commentNum": 16
+            },
+            {
+                "index": "280",
+                "name": "Python深度学习：逻辑 算法与编程实战",
+                "commentNum": 98
+            },
+            {
+                "index": "281",
+                "name": "Python机器学习系统构建（原书第3版）",
+                "commentNum": 0
+            },
+            {
+                "index": "283",
+                "name": "Python编程与数据分析应用（微课版）",
+                "commentNum": 14
+            },
+            {
+                "index": "286",
+                "name": "Python机器学习建模与部署 从Keras到Kubernetes",
+                "commentNum": 4
+            },
+            {
+                "index": "287",
+                "name": "Python学习黄金组合套装（套装共3册）",
+                "commentNum": 97
+            },
+            {
+                "index": "288",
+                "name": "在最好的年纪学Python——小学生趣味编程",
+                "commentNum": 2
+            },
+            {
+                "index": "294",
+                "name": "Python程序设计基础",
+                "commentNum": 16
+            },
+            {
+                "index": "296",
+                "name": "机器学习基础—基于Python和scikit-learn的机器学习应用（翻译版）",
+                "commentNum": 23
+            },
+            {
+                "index": "297",
+                "name": "全国计算机等级考试二级教程——Python语言程序设计(2021年版)",
+                "commentNum": 3
+            },
+            {
+                "index": "298",
+                "name": "Python大数据分析与挖掘实战（微课版）",
+                "commentNum": 0
+            },
+            {
+                "index": "300",
+                "name": "Python无监督学习",
+                "commentNum": 95
+            },
+            {
+                "index": "304",
+                "name": "Python深度学习TensorFlow与PyTorch套装 套装共2册",
+                "commentNum": 61
+            },
+            {
+                "index": "308",
+                "name": "计量经济分析及其Python应用",
+                "commentNum": 0
+            },
+            {
+                "index": "312",
+                "name": "高等数学——基于Python的实现",
+                "commentNum": 44
+            },
+            {
+                "index": "313",
+                "name": "Python语言从入门到精通",
+                "commentNum": 83
+            },
+            {
+                "index": "315",
+                "name": "Python安全实践——PythonHacking",
+                "commentNum": 52
+            },
+            {
+                "index": "317",
+                "name": "Python编程基础及应用",
+                "commentNum": 55
+            },
+            {
+                "index": "322",
+                "name": "Python模块参考手册·日期与时间（全彩版）",
+                "commentNum": 18
+            },
+            {
+                "index": "324",
+                "name": "Python元学习 通用人工智能的实现",
+                "commentNum": 64
+            },
+            {
+                "index": "330",
+                "name": "交互的Python 数据分析入门",
+                "commentNum": 43
+            },
+            {
+                "index": "336",
+                "name": "Python机器学习编程与实战",
+                "commentNum": 27
+            },
+            {
+                "index": "337",
+                "name": "基于Python的金融分析与风险管理 斯文著 科技金融大数据风控金融分析师教程量化交易金融市场技术分",
+                "commentNum": 96
+            },
+            {
+                "index": "338",
+                "name": "Python语言程序设计教程",
+                "commentNum": 56
+            },
+            {
+                "index": "340",
+                "name": "Python数据可视化",
+                "commentNum": 79
+            },
+            {
+                "index": "344",
+                "name": "Python 3 基础教程实验指导与习题集（微课版）",
+                "commentNum": 73
+            },
+            {
+                "index": "345",
+                "name": "Python 3 程序设计学习指导与习题解答",
+                "commentNum": 5
+            },
+            {
+                "index": "349",
+                "name": "Python课程设计-微课视频版",
+                "commentNum": 11
+            },
+            {
+                "index": "353",
+                "name": "思维导图学Python 3.7青少年趣味编程",
+                "commentNum": 41
+            },
+            {
+                "index": "354",
+                "name": "Python与AI编程（下）",
+                "commentNum": 5
+            },
+            {
+                "index": "358",
+                "name": "Python商业数据分析",
+                "commentNum": 0
+            },
+            {
+                "index": "362",
+                "name": "Python语言程序设计基础",
+                "commentNum": 38
+            },
+            {
+                "index": "364",
+                "name": "Python编程入门（第3版）[加拿大]Toby Donaldson；人民邮电出版社9787115333742",
+                "commentNum": 1
+            },
+            {
+                "index": "370",
+                "name": "Python编程从入门到精通 计算机电脑编程入门自学零基础书籍网络爬虫 pathon编程从入门到实践python基础教程",
+                "commentNum": 10
+            },
+            {
+                "index": "371",
+                "name": "Python程序设计方法",
+                "commentNum": 2
+            },
+            {
+                "index": "373",
+                "name": "我跟爸爸学编程：从Python到C++",
+                "commentNum": 79
+            },
+            {
+                "index": "377",
+                "name": "数据科学实战入门 使用Python和R",
+                "commentNum": 38
+            },
+            {
+                "index": "378",
+                "name": "Python大数据基础与实战",
+                "commentNum": 31
+            },
+            {
+                "index": "381",
+                "name": "青少年Python编程入门——图解Python",
+                "commentNum": 19
+            },
+            {
+                "index": "383",
+                "name": "【共三册】Python编程从入门到实践+Python编程快速上手+Python极客项目编程",
+                "commentNum": 18
+            },
+            {
+                "index": "385",
+                "name": "Python编程双子星：像计算机科学家一样思考Python+Python cookbook 第3三版",
+                "commentNum": 7
+            },
+            {
+                "index": "386",
+                "name": "Python编程指南——语法基础、网络爬虫、数据可视化与项目实战",
+                "commentNum": 48
+            },
+            {
+                "index": "387",
+                "name": "青少年学Python 第1册（全彩印刷）",
+                "commentNum": 27
+            },
+            {
+                "index": "388",
+                "name": "Python机器学习一本通",
+                "commentNum": 31
+            },
+            {
+                "index": "389",
+                "name": "基于Python的金融分析",
+                "commentNum": 14
+            },
+            {
+                "index": "392",
+                "name": "Python常用算法手册",
+                "commentNum": 38
+            },
+            {
+                "index": "395",
+                "name": "Python数据可视化编程实战 *2版 数据分析处理教程 数据科学 matplotlib教程书籍",
+                "commentNum": 5
+            },
+            {
+                "index": "398",
+                "name": "Python Web开发从入门到精通",
+                "commentNum": 55
+            },
+            {
+                "index": "400",
+                "name": "Python网络编程",
+                "commentNum": 0
+            },
+            {
+                "index": "403",
+                "name": "用micro:bit学Python",
+                "commentNum": 18
+            },
+            {
+                "index": "404",
+                "name": "Python Linux系统管理与自动化运维 赖明星 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "406",
+                "name": "机器人Python编程与开发",
+                "commentNum": 0
+            },
+            {
+                "index": "410",
+                "name": "青少年学Python（第2册）",
+                "commentNum": 11
+            },
+            {
+                "index": "411",
+                "name": "Python基础教程(第3版)",
+                "commentNum": 0
+            },
+            {
+                "index": "413",
+                "name": "零基础Python编程入门与实战",
+                "commentNum": 46
+            },
+            {
+                "index": "416",
+                "name": "Python大数据分析算法与实例",
+                "commentNum": 89
+            },
+            {
+                "index": "417",
+                "name": "Python大数据基础",
+                "commentNum": 11
+            },
+            {
+                "index": "418",
+                "name": "图解Python+图解算法 轻松快速掌握实力派脚本语言&程序设计精华（套装2册）",
+                "commentNum": 26
+            },
+            {
+                "index": "419",
+                "name": "Python第三方库开发应用实战",
+                "commentNum": 60
+            },
+            {
+                "index": "421",
+                "name": "Python 3网络爬虫实战",
+                "commentNum": 60
+            },
+            {
+                "index": "422",
+                "name": "Python数据分析入门与实战",
+                "commentNum": 31
+            },
+            {
+                "index": "425",
+                "name": "Python入门与实战",
+                "commentNum": 65
+            },
+            {
+                "index": "438",
+                "name": "精通Python3网络爬虫框架Scrapy教程 机器学习数据挖掘科学书 网络数据爬取分析采集教程 网络爬虫开发实战",
+                "commentNum": 33
+            },
+            {
+                "index": "443",
+                "name": "Python算法设计与分析",
+                "commentNum": 46
+            },
+            {
+                "index": "447",
+                "name": "Python语言基础教程",
+                "commentNum": 11
+            },
+            {
+                "index": "452",
+                "name": "Python 自动化接口测试自学手册",
+                "commentNum": 22
+            },
+            {
+                "index": "454",
+                "name": "Python爬虫 数据分析与可视化：工具详解与案例实战",
+                "commentNum": 3
+            },
+            {
+                "index": "455",
+                "name": "Python编程 从入门到实践 [美]埃里克·马瑟斯(Eric Matthes) 人民邮电出版社",
+                "commentNum": 2
+            },
+            {
+                "index": "457",
+                "name": "套装3本流畅的Python+像计算机科学家一样思考第2版+Python Cookbook中文版",
+                "commentNum": 20
+            },
+            {
+                "index": "458",
+                "name": "Python自动化运维:技术与佳实践 刘天斯 著 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "462",
+                "name": "对比Excel，轻松学习SQL数据分析+Python数据分析",
+                "commentNum": 52
+            },
+            {
+                "index": "465",
+                "name": "零基础入门学习Python 小甲鱼 python编程从入门到精通实践 pathon3.5语言程序设计基础教程python",
+                "commentNum": 27
+            },
+            {
+                "index": "466",
+                "name": "Python基础教程",
+                "commentNum": 95
+            },
+            {
+                "index": "471",
+                "name": "Python数据挖掘入门与实践 第2版",
+                "commentNum": 98
+            },
+            {
+                "index": "472",
+                "name": "Python快乐编程——Web开发",
+                "commentNum": 13
+            },
+            {
+                "index": "473",
+                "name": "【正版】 PYTHON3网络爬虫开发实战 崔庆才 9787115480347 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "474",
+                "name": "Python 深度学习",
+                "commentNum": 1
+            },
+            {
+                "index": "476",
+                "name": "Python程序设计基础教程",
+                "commentNum": 21
+            },
+            {
+                "index": "477",
+                "name": "智能硬件与机器视觉：基于树莓派 Python和OpenCV",
+                "commentNum": 4
+            },
+            {
+                "index": "478",
+                "name": "Python 编程技术手册",
+                "commentNum": 12
+            },
+            {
+                "index": "482",
+                "name": "写给青少年的编程书——Python版",
+                "commentNum": 2
+            },
+            {
+                "index": "483",
+                "name": "【正版特价】预测分析建模：Python与R语言实现|229224",
+                "commentNum": 2
+            },
+            {
+                "index": "484",
+                "name": "零基础轻松学Python",
+                "commentNum": 14
+            },
+            {
+                "index": "486",
+                "name": "计算机科学概论 Python版",
+                "commentNum": 44
+            },
+            {
+                "index": "487",
+                "name": "Python高维数据分析",
+                "commentNum": 5
+            },
+            {
+                "index": "491",
+                "name": "Python编程与几何图形",
+                "commentNum": 92
+            },
+            {
+                "index": "492",
+                "name": "Python高级编程 第2版 [波兰]Micha Jaworski 贾沃斯基 [法]Tarek 978711546015",
+                "commentNum": 1
+            },
+            {
+                "index": "498",
+                "name": "Python语言程序设计基础 第2版 Python嵩天 教育部大学计算机课程改革项目规划教材 教材 专科教材 工学 Py",
+                "commentNum": 7
+            },
+            {
+                "index": "499",
+                "name": "包邮 [套装书]Python学习手册（原书第5版）+Python 3标准库（2册|8067181",
+                "commentNum": 26
+            },
+            {
+                "index": "501",
+                "name": "Python入门很轻松（微课超值版）",
+                "commentNum": 35
+            },
+            {
+                "index": "502",
+                "name": "Python编程完全入门教程",
+                "commentNum": 60
+            },
+            {
+                "index": "504",
+                "name": "Python程序设计与应用",
+                "commentNum": 0
+            },
+            {
+                "index": "505",
+                "name": "Python数据整理",
+                "commentNum": 38
+            },
+            {
+                "index": "506",
+                "name": "利用Python进行数据分析9787111436737Wes McKinney 著；唐学韬 机械工业出版社9787111",
+                "commentNum": 21
+            },
+            {
+                "index": "507",
+                "name": "Python入门很简单",
+                "commentNum": 86
+            },
+            {
+                "index": "508",
+                "name": "【赠源代码】python编程 从入门到实践python基础教程数据分析python学习手册编程入门迅速掌握Python编",
+                "commentNum": 2
+            },
+            {
+                "index": "509",
+                "name": "Python应用编程丛书:解析Python网络爬虫：核心技术、Scrapy框架、分布式爬虫",
+                "commentNum": 97
+            },
+            {
+                "index": "514",
+                "name": "Python程序设计入门",
+                "commentNum": 1
+            },
+            {
+                "index": "516",
+                "name": "Python编程项目实战三部曲：Python编程快速上手+Python极客项目编程+Python游戏",
+                "commentNum": 8
+            },
+            {
+                "index": "518",
+                "name": "Python程序设计基础教程",
+                "commentNum": 7
+            },
+            {
+                "index": "523",
+                "name": "数字图像处理与Python实现",
+                "commentNum": 64
+            },
+            {
+                "index": "525",
+                "name": "Python编程 从入门到实践 [美]埃里克·马瑟斯(Eric Matthes) 9787115428028 人民邮电出",
+                "commentNum": 3
+            },
+            {
+                "index": "526",
+                "name": "Python计算与编程实践 多媒体方法 第4版",
+                "commentNum": 90
+            },
+            {
+                "index": "529",
+                "name": "Python程序设计与应用",
+                "commentNum": 3
+            },
+            {
+                "index": "530",
+                "name": "Python金融数据挖掘",
+                "commentNum": 20
+            },
+            {
+                "index": "531",
+                "name": "Python快乐编程——TensorFlow深度学习项目实战（“好程序员成长”丛书）",
+                "commentNum": 31
+            },
+            {
+                "index": "532",
+                "name": "Python与机器学习",
+                "commentNum": 16
+            },
+            {
+                "index": "534",
+                "name": "少儿编程：趣味学Python",
+                "commentNum": 0
+            },
+            {
+                "index": "535",
+                "name": "超好玩的Python少儿编程",
+                "commentNum": 87
+            },
+            {
+                "index": "537",
+                "name": "Python数据分析",
+                "commentNum": 35
+            },
+            {
+                "index": "538",
+                "name": "Python编程之旅：与小博士漫游太阳系",
+                "commentNum": 26
+            },
+            {
+                "index": "540",
+                "name": "Python机器学习算法与应用",
+                "commentNum": 28
+            },
+            {
+                "index": "545",
+                "name": "智能之门：神经网络与深度学习入门（基于Python的实现）",
+                "commentNum": 0
+            },
+            {
+                "index": "548",
+                "name": "Python程序设计实践教程",
+                "commentNum": 6
+            },
+            {
+                "index": "550",
+                "name": "Python 3.8编程快速入门",
+                "commentNum": 12
+            },
+            {
+                "index": "552",
+                "name": "Python学习手册：第4版 鲁特兹 著，李军，刘红伟 译 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "555",
+                "name": "临床大数据分析与挖掘——基于Python和机器学习的临床决策",
+                "commentNum": 0
+            },
+            {
+                "index": "556",
+                "name": "Python人工智能",
+                "commentNum": 80
+            },
+            {
+                "index": "559",
+                "name": "Python程序设计与算法思维",
+                "commentNum": 39
+            },
+            {
+                "index": "560",
+                "name": "笨办法学Python 3 进阶篇 视频教学 笨方法学Python核心编程流畅的Python 编程进阶",
+                "commentNum": 14
+            },
+            {
+                "index": "561",
+                "name": "Python基础教程(第2版修订版)",
+                "commentNum": 0
+            },
+            {
+                "index": "566",
+                "name": "Python自然语言处理与开发",
+                "commentNum": 32
+            },
+            {
+                "index": "567",
+                "name": "Python Qt GUI与数据可视化编程 王维波，栗宝鹃，张晓东 著 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "568",
+                "name": "Python数据分析 活用Pandas库 数据科学教程数据分析入门图书 Python编程入门数据处理",
+                "commentNum": 26
+            },
+            {
+                "index": "569",
+                "name": "Python语言程序设计",
+                "commentNum": 80
+            },
+            {
+                "index": "570",
+                "name": "面向应用的Python程序设计",
+                "commentNum": 2
+            },
+            {
+                "index": "571",
+                "name": "【自营】PHP编程入门指南 MySQL数据库/Web/程序开发语言程序设计/可搭C语言/python/HTML/CSS/",
+                "commentNum": 13
+            },
+            {
+                "index": "574",
+                "name": "Python 3.x程序设计基础",
+                "commentNum": 78
+            },
+            {
+                "index": "575",
+                "name": "Python Linux系统管理与自动化运维 赖明星机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "576",
+                "name": "Python自然语言处理实战",
+                "commentNum": 7
+            },
+            {
+                "index": "577",
+                "name": "Python物理学高效计算 [美] 安东尼·斯科普斯（Anthony Scopatz），",
+                "commentNum": 1
+            },
+            {
+                "index": "578",
+                "name": "零基础学Python（第2版）",
+                "commentNum": 36
+            },
+            {
+                "index": "579",
+                "name": "中学生可以这样学Python（微课版）",
+                "commentNum": 67
+            },
+            {
+                "index": "582",
+                "name": "赠软件 小学生C++趣味编程 潘洪波 上下册 小学生c少儿编程书籍scratch少儿童趣味编程入门教程书 python青",
+                "commentNum": 56
+            },
+            {
+                "index": "585",
+                "name": "Python深度学习应用",
+                "commentNum": 38
+            },
+            {
+                "index": "588",
+                "name": "Python程序设计实例教程",
+                "commentNum": 32
+            },
+            {
+                "index": "589",
+                "name": "轻松学Python编程",
+                "commentNum": 51
+            },
+            {
+                "index": "590",
+                "name": "Python程序设计基础",
+                "commentNum": 95
+            },
+            {
+                "index": "592",
+                "name": "Python基础教程第3版 python3.5核心编程从入门到实践网络爬虫数据分析 零基础自学pathon从入门到精通程",
+                "commentNum": 1
+            },
+            {
+                "index": "594",
+                "name": "Python从入门到精通",
+                "commentNum": 50
+            },
+            {
+                "index": "595",
+                "name": "包邮 [套装书]Python数据分析与挖掘实战（第2版）+利用Python进行数|8065135",
+                "commentNum": 39
+            },
+            {
+                "index": "596",
+                "name": "Python程序设计基础",
+                "commentNum": 47
+            },
+            {
+                "index": "597",
+                "name": "机器学习：使用OpenCV Python和scikit-learn进行智能图像处理（原书第2版）",
+                "commentNum": 1
+            },
+            {
+                "index": "598",
+                "name": "Python学习笔记：从入门到实战",
+                "commentNum": 83
+            },
+            {
+                "index": "600",
+                "name": "Python程序设计——从基础开发到数据分析（微课版）",
+                "commentNum": 53
+            },
+            {
+                "index": "607",
+                "name": "Python大学实用教程",
+                "commentNum": 58
+            },
+            {
+                "index": "609",
+                "name": "流畅的Python [巴西]卢西亚诺·拉马略(Luciano Ramalho) 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "611",
+                "name": "数据科学入门 第2版",
+                "commentNum": 0
+            },
+            {
+                "index": "612",
+                "name": "一步到位！Python从基础编程到数据分析",
+                "commentNum": 14
+            },
+            {
+                "index": "614",
+                "name": "Python程序设计",
+                "commentNum": 30
+            },
+            {
+                "index": "615",
+                "name": "Python基础入门-微课视频版",
+                "commentNum": 12
+            },
+            {
+                "index": "616",
+                "name": "【新华书店】简明Python教程石向荣，张帅 编浙江大学出版社9787308201681",
+                "commentNum": 0
+            },
+            {
+                "index": "618",
+                "name": "Python基础编程入门",
+                "commentNum": 4
+            },
+            {
+                "index": "620",
+                "name": "利用Python进行数据分析机械工业出版社9787111436737Wes McKinn【正版现货】",
+                "commentNum": 1
+            },
+            {
+                "index": "622",
+                "name": "Python高级机器学习",
+                "commentNum": 51
+            },
+            {
+                "index": "623",
+                "name": "Python基础与应用开发",
+                "commentNum": 0
+            },
+            {
+                "index": "624",
+                "name": "Python极客项目编程",
+                "commentNum": 1
+            },
+            {
+                "index": "625",
+                "name": "NCT全国青少年编程能力等级测试教程：Python语言编程一级",
+                "commentNum": 65
+            },
+            {
+                "index": "626",
+                "name": "Python编程快速上手让繁琐工作自动化",
+                "commentNum": 2
+            },
+            {
+                "index": "627",
+                "name": "Python基础教程",
+                "commentNum": 0
+            },
+            {
+                "index": "629",
+                "name": "Python程序设计教程范建农 主编 电子工业出版社9787121320910",
+                "commentNum": 0
+            },
+            {
+                "index": "630",
+                "name": "Python基础教程(第2版 修订版) (挪)海特兰德 人民邮电出版社 9787115353528",
+                "commentNum": 1
+            },
+            {
+                "index": "631",
+                "name": "Python编程实践 (美)坎贝尔 等著，唐学韬 等译 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "632",
+                "name": "Python 语言程序设计 （美）梁勇 著,李娜 译 9787111487685 机械工业出版社 Python 语言程序",
+                "commentNum": 0
+            },
+            {
+                "index": "633",
+                "name": "Python快速入门精讲",
+                "commentNum": 95
+            },
+            {
+                "index": "634",
+                "name": "Python 3学习笔记 雨痕电子工业出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "635",
+                "name": "Python核心编程 （美）丘恩（Chun，W.J.） 著，宋吉广 译 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "636",
+                "name": "Python编程从入门到精通 计算机电脑编程入门自学零基础教程全套书籍 pathon编程从入门到实践python基础教程",
+                "commentNum": 0
+            },
+            {
+                "index": "637",
+                "name": "Python量化交易：策略、技巧与实战 量化交易策略 深层次剖析 实战应用案列 普通投资者也能玩转量化投资 JoinQu",
+                "commentNum": 0
+            },
+            {
+                "index": "638",
+                "name": "包邮 Python入门经典：以解决计算问题为导向的Python编程实践[图书]|3683628",
+                "commentNum": 3
+            },
+            {
+                "index": "639",
+                "name": "Python项目开发案例集锦全彩版 基础教程计算机电脑编程网络爬虫 pathon编程从入门到实践python语言程序设计",
+                "commentNum": 0
+            },
+            {
+                "index": "640",
+                "name": "Python数据分析：基于Plotly的动态可视化绘图 孙洋洋等 电子工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "641",
+                "name": "Python少儿趣味编程从入门到实战数据分析零基础自学教程书计算机基础小甲鱼机器语言程序设计学习快速上手pathon网络",
+                "commentNum": 0
+            },
+            {
+                "index": "642",
+                "name": "写给系统管理员的Python脚本编程指南 系统管理 脚本 爬虫 Linux Python脚本编程指南",
+                "commentNum": 22
+            },
+            {
+                "index": "643",
+                "name": "Python Django开发实战（视频讲解版）",
+                "commentNum": 69
+            },
+            {
+                "index": "644",
+                "name": "正版 笨办法学Python 3 进阶篇+笨办法 学Python 3 视频教学 笨方法学Python核",
+                "commentNum": 21
+            },
+            {
+                "index": "645",
+                "name": "Python程序设计与问题求解（原书第2版）",
+                "commentNum": 70
+            },
+            {
+                "index": "646",
+                "name": "人工智能应用基础（Python版）",
+                "commentNum": 5
+            },
+            {
+                "index": "647",
+                "name": "Python编程 从入门到实践 [美]埃里克·马瑟斯(Eric Matthes) 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "648",
+                "name": "O'Reilly：Python学习手册 [美] 鲁特兹（Mark Lutz） 著，李军 等 译 机械工业出版社【正版书籍",
+                "commentNum": 1
+            },
+            {
+                "index": "649",
+                "name": "【旗舰店正版】 Python编程快速上手 python语言从入门到精通零基础自学计算机程序设计基础教程书籍核心编程技术数",
+                "commentNum": 0
+            },
+            {
+                "index": "650",
+                "name": "Python测试驱动开发 使用Django Selenium和JavaScript进行Web编程 *2版",
+                "commentNum": 8
+            },
+            {
+                "index": "651",
+                "name": "【新华书店】Python Qt GUI与数据可视化编程,王维波 栗宝鹃 张晓东,人民邮电出版社,978711551416",
+                "commentNum": 0
+            },
+            {
+                "index": "653",
+                "name": "Python App开发黄金组合（套装共3册）",
+                "commentNum": 16
+            },
+            {
+                "index": "654",
+                "name": "Python学习手册",
+                "commentNum": 0
+            },
+            {
+                "index": "655",
+                "name": "利用Python进行数据分析(美)韦斯·麦金尼(Wes McKinney) 著;徐敬一 译 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "656",
+                "name": "Python Web开发基础教程（Django版）（微课版）",
+                "commentNum": 60
+            },
+            {
+                "index": "657",
+                "name": "【套装2本】Python3 网络爬虫开发实战 Python编程从入门到实践 python网络爬虫 Scrapy数据分析处",
+                "commentNum": 0
+            },
+            {
+                "index": "658",
+                "name": "Python编程基础 闫俊伢 人民邮电出版社【正版图书，品质优选，放心选购】",
+                "commentNum": 0
+            },
+            {
+                "index": "659",
+                "name": "[正版现货]Python全案例学习与实践,沈红卫,电子工业出版社,9787121373008",
+                "commentNum": 0
+            },
+            {
+                "index": "660",
+                "name": "Python数据分析与应用黄红梅 NumPy数值计算基础教程书籍 Matplotlib数据可视化基础 pandas统计分",
+                "commentNum": 0
+            },
+            {
+                "index": "661",
+                "name": "【套装2本】Python基础教程 第3版 Python核心编程 Python教程书籍 Python编程从入门到实践精通笨",
+                "commentNum": 0
+            },
+            {
+                "index": "662",
+                "name": "Python项目案例开发从入门到实战—爬虫、游戏和机器学习20个项目案例600分钟精讲视频及源码,郑秋生，夏敏捷，宋宝卫",
+                "commentNum": 1
+            },
+            {
+                "index": "663",
+                "name": "Python语言及其应用9787115407092[美]卢布诺维克（Bill Lubano【特价活动】",
+                "commentNum": 1
+            },
+            {
+                "index": "664",
+                "name": "Python编程 从入门到实践",
+                "commentNum": 0
+            },
+            {
+                "index": "665",
+                "name": "Python树莓派编程 沃尔弗拉姆 多纳特(Wolfram Donat) 机械工业出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "666",
+                "name": "Python爬虫开发与项目实战 范传辉 机械工业出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "667",
+                "name": "【正品】Python项目开发实战 第2版 日 BePROUD股份有限公司 9787115438560",
+                "commentNum": 1
+            },
+            {
+                "index": "668",
+                "name": "Python机器学习",
+                "commentNum": 63
+            },
+            {
+                "index": "669",
+                "name": "Python网络爬虫从入门到实践 python语言编程教程书籍 Python网络数据采集 用Python编写网络爬虫程序",
+                "commentNum": 2
+            },
+            {
+                "index": "670",
+                "name": "Python绝技:运用Python成为*黑客 [美] TJ O'Connor（TJ 奥科罗） 著；崔孝晨，武晓音 译",
+                "commentNum": 2
+            },
+            {
+                "index": "671",
+                "name": "【正品】Python计算机视觉编程 [美]Jan Erik Solem,朱文涛 9787115352323",
+                "commentNum": 1
+            },
+            {
+                "index": "672",
+                "name": "零基础入门Python游戏",
+                "commentNum": 28
+            },
+            {
+                "index": "673",
+                "name": "【新华书店】Python机器学习实践指南 9787115449061 [美] Alexander，T.，Combs 著，",
+                "commentNum": 0
+            },
+            {
+                "index": "674",
+                "name": "Python金融大数据风控建模实战基于机器学习 分析与机器学习商业案例实战 零门槛学习金融大数据风控",
+                "commentNum": 1
+            },
+            {
+                "index": "675",
+                "name": "流畅的Python [巴西]卢西亚诺·拉马略(Luciano Ramalho) 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "676",
+                "name": "Python科学计算 张若愚 清华大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "677",
+                "name": "Python算法教程 [挪威]赫特兰(Magnus Lie Hetland) 9787115404831 人民邮电出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "678",
+                "name": "Python高级编程 （法）莱德 著，姚军，夏海轮，王秀丽 译 9787115217035 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "679",
+                "name": "Python数据分析实战 【意】内利(Fabio Nelli) 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "681",
+                "name": "Python高级编程 Luke Sneeringer 宋沄剑 刘磊 译 清华大学出版社 [美] Luke Sneerin",
+                "commentNum": 1
+            },
+            {
+                "index": "682",
+                "name": "计算机科学导论——以Python为舟（第3版）",
+                "commentNum": 1
+            },
+            {
+                "index": "684",
+                "name": "python 基础教程零基础学Python3.5编程从入门到实践计算机程序设计pathon3核心技术网络爬虫书籍数据分析",
+                "commentNum": 8
+            },
+            {
+                "index": "685",
+                "name": "Python编程基础教程",
+                "commentNum": 41
+            },
+            {
+                "index": "688",
+                "name": "Python游戏编程入门程序设计从入门到实战数据分析零基础自学教程书计算机基础小甲鱼机器语言学习快速上手pathon网络",
+                "commentNum": 1
+            },
+            {
+                "index": "690",
+                "name": "Python数据分析、挖掘与可视化 慕课版",
+                "commentNum": 10
+            },
+            {
+                "index": "691",
+                "name": "Python网络编程基础[美] 高森（John Goerzen）,莫迟 等电子工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "692",
+                "name": "Python数据分析基础阮敬 著中国统计出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "693",
+                "name": "Python统计分析 建模 数据分析 讲述统计数据分析与应用 Springer\"统计和计算\"系列从书",
+                "commentNum": 13
+            },
+            {
+                "index": "697",
+                "name": "Python 3程序开发指南 [美]萨默菲尔德 著，王弘博，孙传庆 译 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "698",
+                "name": "Python基础案例教程",
+                "commentNum": 29
+            },
+            {
+                "index": "702",
+                "name": "Python算法教程[挪威]赫特兰（Magnus Lie H人民邮电出版社9787115404831【达额立减】【闪电发",
+                "commentNum": 0
+            },
+            {
+                "index": "703",
+                "name": "备考 计算机二级python 2020年12月 计算机python上机题库 二级python2020 全国计算机等级考试",
+                "commentNum": 32
+            },
+            {
+                "index": "704",
+                "name": "Python深度学习/深度学习系列",
+                "commentNum": 1
+            },
+            {
+                "index": "706",
+                "name": "金融科技人工智能实战：以Python为工具",
+                "commentNum": 50
+            },
+            {
+                "index": "707",
+                "name": "Python程序设计实验教程（高等学校计算机教育规划教材）",
+                "commentNum": 17
+            },
+            {
+                "index": "708",
+                "name": "【套装2本】 Python基础编程 新概念51单片机C语言教程 Python视频教程 Python编程从零基础到项目实战",
+                "commentNum": 0
+            },
+            {
+                "index": "709",
+                "name": "Python编程导论 第2版 [美]约翰·谷泰格 9787115473769 人民邮电出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "710",
+                "name": "Python程序设计教程",
+                "commentNum": 96
+            },
+            {
+                "index": "712",
+                "name": "零基础学Python [英]理查森 著，王磊 译 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "713",
+                "name": "零基础入门学习Python 小甲鱼 python编程从入门到精通实践 pathon3.7语言程序设计基础教程网络爬虫 计",
+                "commentNum": 0
+            },
+            {
+                "index": "715",
+                "name": "Python从小白到大牛 关东升 著清华大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "718",
+                "name": "笨办法学Python 3：基础篇+进阶篇（套装2册）",
+                "commentNum": 37
+            },
+            {
+                "index": "721",
+                "name": "Python数据分析与应用",
+                "commentNum": 3
+            },
+            {
+                "index": "722",
+                "name": "Python项目实战从入门到精通",
+                "commentNum": 5
+            },
+            {
+                "index": "723",
+                "name": "PYthon 入门经典 (美)潘曲,尹鲍德 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "725",
+                "name": "Python核心编程实践",
+                "commentNum": 95
+            },
+            {
+                "index": "729",
+                "name": "Python实战开发全能套装（套装共3册）",
+                "commentNum": 12
+            },
+            {
+                "index": "730",
+                "name": "Python程序设计教程",
+                "commentNum": 9
+            },
+            {
+                "index": "731",
+                "name": "Python基础与大数据应用实战",
+                "commentNum": 41
+            },
+            {
+                "index": "732",
+                "name": "零基础入门学习Python 小甲鱼 李佳宇 著 著 9787302514084 清华大学出版社",
+                "commentNum": 8
+            },
+            {
+                "index": "734",
+                "name": "Python编程双子星：像计算机科学家一样思考Python+Python cookbook 第3版中文版",
+                "commentNum": 26
+            },
+            {
+                "index": "736",
+                "name": "数据科学导论——基于Python语言（微课版）",
+                "commentNum": 2
+            },
+            {
+                "index": "738",
+                "name": "Python金融大数据分析 第2版（影印版）",
+                "commentNum": 24
+            },
+            {
+                "index": "739",
+                "name": "基于Python的大数据分析基础及实战 余本国 著 中国水利水电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "740",
+                "name": "Python程序设计",
+                "commentNum": 63
+            },
+            {
+                "index": "741",
+                "name": "Python 3.x入门到应用实践",
+                "commentNum": 70
+            },
+            {
+                "index": "743",
+                "name": "Python绝技:运用Python成为黑客 [美] TJ O'Connor（TJ 奥科罗）；崔孝晨,武晓音 电子工业出版",
+                "commentNum": 0
+            },
+            {
+                "index": "744",
+                "name": "数据分析通识 深入浅出数据分析从入门到进阶 Python数据分析入门教程书籍 数据可视化 特征工程",
+                "commentNum": 3
+            },
+            {
+                "index": "750",
+                "name": "Python文本分析（原书第2版）",
+                "commentNum": 6
+            },
+            {
+                "index": "754",
+                "name": "Python游戏设计案例实战",
+                "commentNum": 88
+            },
+            {
+                "index": "756",
+                "name": "应用回归及分类——基于R与Python的实现（第2版）（基于R应用的统计学丛书）",
+                "commentNum": 25
+            },
+            {
+                "index": "757",
+                "name": "Python程序设计",
+                "commentNum": 56
+            },
+            {
+                "index": "759",
+                "name": "Python金融分析入门到实战:基于Python的金融分析与风险管理+Python金融实战案例精粹（套装2册）",
+                "commentNum": 37
+            },
+            {
+                "index": "762",
+                "name": "利用Python进行数据分析 [美]韦斯·麦金尼（WesMcKinney）,徐敬一",
+                "commentNum": 1
+            },
+            {
+                "index": "763",
+                "name": "Python趣码快乐编程",
+                "commentNum": 55
+            },
+            {
+                "index": "764",
+                "name": "Python 3 程序设计学习指导与习题解答",
+                "commentNum": 19
+            },
+            {
+                "index": "768",
+                "name": "用Python写网络爬虫,理查德 劳森,人民邮电出版社【正版】",
+                "commentNum": 1
+            },
+            {
+                "index": "769",
+                "name": "Python测试驱动开发（影印版）",
+                "commentNum": 62
+            },
+            {
+                "index": "770",
+                "name": "Python语言程序设计实验指导与习题",
+                "commentNum": 5
+            },
+            {
+                "index": "772",
+                "name": "爱上Python 一日精通Python编程 [新加坡]Jamie Chan 9787115421456 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "775",
+                "name": "[正版现货]Python量化投资：技术、模型与策略,赵志强，刘志伟 著,机械工业出版社,9787111664239",
+                "commentNum": 0
+            },
+            {
+                "index": "776",
+                "name": "【正版现货】Python学习笔记：从入门到实战9787113262419 张学建 中国铁道出版社有限公司",
+                "commentNum": 0
+            },
+            {
+                "index": "777",
+                "name": "Python科学计算 [英]约翰·M.斯图尔特（JohnM.Stewart）,江红,余青机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "778",
+                "name": "Python项目开发实战 第2版 日 BePROUD股份有限公司 人民邮电出版社",
+                "commentNum": 1
+            },
+            {
+                "index": "779",
+                "name": "Python3.0科学计算指南",
+                "commentNum": 0
+            },
+            {
+                "index": "780",
+                "name": "Python宝典 满额减 可开发票",
+                "commentNum": 0
+            },
+            {
+                "index": "781",
+                "name": "Python编程初学者指[美]道森（Michael Dawson人民邮电出版社9787115361448",
+                "commentNum": 0
+            },
+            {
+                "index": "782",
+                "name": "计算机科学丛书：Python语言程序设计,机械工业出版社,[美] 梁勇（Y.Daniel Liang）,李娜,97871",
+                "commentNum": 0
+            },
+            {
+                "index": "783",
+                "name": "Python 3面向对象编程| 9787564170745| Dusty Phillips著",
+                "commentNum": 0
+            },
+            {
+                "index": "784",
+                "name": "Python数据分析(第2版)",
+                "commentNum": 0
+            },
+            {
+                "index": "785",
+                "name": "【新华书店】Python股票量化交易从入门到实践,袁霄 著,人民邮电出版社, 9787115536075",
+                "commentNum": 0
+            },
+            {
+                "index": "786",
+                "name": "[正版现货]Python袖珍指南[美] Mark Lutz（马克·卢茨） 著，侯荣涛 译中国电力出版社978751236",
+                "commentNum": 0
+            },
+            {
+                "index": "787",
+                "name": "Python青少年趣味编程艾德丽安·B.塔克 9787121388491 电子工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "788",
+                "name": "【正版特价】Python机器学习（原书第2版）|231970",
+                "commentNum": 1
+            },
+            {
+                "index": "789",
+                "name": "【新华书店】Python编程(第四版),Mark Lutz,中国电力出版社, 9787512355309",
+                "commentNum": 0
+            },
+            {
+                "index": "790",
+                "name": "Python语言及其应用[美]卢布诺维克（Bill Lubano人民邮电出版社9787115407092【正版】",
+                "commentNum": 0
+            },
+            {
+                "index": "791",
+                "name": "Python速查手册:全彩版:基础卷 明日科技（MingRiSoft）著,明日科技 9787830027520 北京希望",
+                "commentNum": 0
+            },
+            {
+                "index": "792",
+                "name": "Python设计模式 第2版",
+                "commentNum": 0
+            },
+            {
+                "index": "793",
+                "name": "Python数据处理 [美] 杰奎琳·凯泽尔（Jacqueline Kazil）凯瑟琳?贾缪尔（Katharine Ja",
+                "commentNum": 0
+            },
+            {
+                "index": "794",
+                "name": "Python数据分析与数据化运营 宋天龙 9787111627760",
+                "commentNum": 0
+            },
+            {
+                "index": "795",
+                "name": "【特价秒杀】Python语言及其应用人民邮电出版社9787115407092[美]卢布诺维克（B",
+                "commentNum": 0
+            },
+            {
+                "index": "796",
+                "name": "Python语言及其应用9787115407092人民邮电出版社【全店打折】",
+                "commentNum": 0
+            },
+            {
+                "index": "797",
+                "name": "Python编程 Mark Lutz 中国电力出版社 9787512355309",
+                "commentNum": 0
+            },
+            {
+                "index": "798",
+                "name": "Python3网络爬虫开发实战",
+                "commentNum": 0
+            },
+            {
+                "index": "799",
+                "name": "现货正版 Python基础教程 快速发货",
+                "commentNum": 0
+            },
+            {
+                "index": "800",
+                "name": "Python物理建模初学者指南",
+                "commentNum": 0
+            },
+            {
+                "index": "801",
+                "name": "Python基础教程(第2版)(经典教程的全新改版、10个项目引人入胜)",
+                "commentNum": 0
+            },
+            {
+                "index": "802",
+                "name": "[正版现货]Python极客项目编程,[美] Mahesh Venkitachalam,人民邮电出版社,97871154",
+                "commentNum": 0
+            },
+            {
+                "index": "803",
+                "name": "[正版现货]Python编程快速上手,(美)斯维加特(Al Sweigart) 著;王海鹏 译,人民邮电出版社,9787",
+                "commentNum": 0
+            },
+            {
+                "index": "804",
+                "name": "[正版现货]Python学习笔记：从入门到实战,张学建,中国铁道出版社有限公司,9787113262419",
+                "commentNum": 0
+            },
+            {
+                "index": "805",
+                "name": "Python数据挖掘入门与实践",
+                "commentNum": 0
+            },
+            {
+                "index": "806",
+                "name": "[正版现货]Python趣味编程入门与实战,王征,李晓波,中国铁道出版社,9787113259327",
+                "commentNum": 0
+            },
+            {
+                "index": "807",
+                "name": "Python Django Web典型模块开发实战",
+                "commentNum": 0
+            },
+            {
+                "index": "808",
+                "name": "PYTHON数据挖掘与机器学习实战 方巍 9787111626817",
+                "commentNum": 0
+            },
+            {
+                "index": "809",
+                "name": "Python计算机视觉编程",
+                "commentNum": 0
+            },
+            {
+                "index": "810",
+                "name": "Python编程从入门到实战的16堂课",
+                "commentNum": 0
+            },
+            {
+                "index": "811",
+                "name": "Python并行编程手册",
+                "commentNum": 0
+            },
+            {
+                "index": "812",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "813",
+                "name": "Python 并行编程手册 [意大利] Giancarlo,Zaccone（詹卡洛 扎克尼）,张龙",
+                "commentNum": 0
+            },
+            {
+                "index": "814",
+                "name": "PythonCookbook(第2版)中文版",
+                "commentNum": 0
+            },
+            {
+                "index": "815",
+                "name": "Python 3 7从零开始学刘宇宙,刘艳 9787302510840 清华大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "816",
+                "name": "Python机器学习",
+                "commentNum": 0
+            },
+            {
+                "index": "817",
+                "name": "Python UNIX 和Linux 系统管理指南",
+                "commentNum": 0
+            },
+            {
+                "index": "818",
+                "name": "Python数据处理",
+                "commentNum": 0
+            },
+            {
+                "index": "819",
+                "name": "Python高性能第2版",
+                "commentNum": 0
+            },
+            {
+                "index": "820",
+                "name": "PYthon3.8从入门到精通",
+                "commentNum": 0
+            },
+            {
+                "index": "821",
+                "name": "Python3 6编程实践指南 计算机科学入门",
+                "commentNum": 0
+            },
+            {
+                "index": "822",
+                "name": "Python高性能编程",
+                "commentNum": 0
+            },
+            {
+                "index": "823",
+                "name": "Python金融大数据分析",
+                "commentNum": 0
+            },
+            {
+                "index": "824",
+                "name": "Python人脸识别：从入门到工程实践王天庆 9787111623854 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "825",
+                "name": "Python深度学习：基于PyTorch吴茂贵,郁明敏,杨本法,李涛,张粤磊 9787111637172 机械工业出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "826",
+                "name": "Python网络爬虫实战 清华科技大讲堂",
+                "commentNum": 0
+            },
+            {
+                "index": "827",
+                "name": "Python数据分析基础",
+                "commentNum": 0
+            },
+            {
+                "index": "828",
+                "name": "Python开发向导",
+                "commentNum": 0
+            },
+            {
+                "index": "829",
+                "name": "Python项目开发实战入门",
+                "commentNum": 0
+            },
+            {
+                "index": "830",
+                "name": "Python程序设计案例教程 从入门到机器学习 微课版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "831",
+                "name": "Python核心编程从入门到开发实战",
+                "commentNum": 0
+            },
+            {
+                "index": "832",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "833",
+                "name": "Python绝技:运用Python成为*黑客 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "834",
+                "name": "Python机器学习实践:测试驱动的开发方法 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "835",
+                "name": "Python高性能编程",
+                "commentNum": 0
+            },
+            {
+                "index": "836",
+                "name": "Python编程基础与HTTP接口测试 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "837",
+                "name": "Python数据挖掘:概念、方法与实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "838",
+                "name": "Python全案例学习与实践",
+                "commentNum": 0
+            },
+            {
+                "index": "839",
+                "name": "Python数据分析：基于Plotly的动态可视化绘图 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "840",
+                "name": "Python趣味编程入门与实战 王征,李晓波 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "841",
+                "name": "Python 3程序开发指南(第2版 修订版) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "842",
+                "name": "Python编程入门(第3版) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "843",
+                "name": "Python自然语言处理实战：核心技术与算法 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "844",
+                "name": "动态语言技术精品书廊Python源码剖析：深度探索动态语言核心技术",
+                "commentNum": 0
+            },
+            {
+                "index": "845",
+                "name": "Python与有限元 基于Python编程的有限元分析及应用扩展 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "846",
+                "name": "Python 3 6零基础入门与实战 王启明,罗从良 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "847",
+                "name": "Python Linux系统管理与自动化运维 赖明星 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "848",
+                "name": "Python高效开发实战:Django、Tornado、Flask、Twisted 刘长龙 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "849",
+                "name": "！Python语言在Abaqus中的应用 曹金凤 等 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "850",
+                "name": "Python人脸识别：从入门到工程实践",
+                "commentNum": 0
+            },
+            {
+                "index": "851",
+                "name": "Python编程基础",
+                "commentNum": 0
+            },
+            {
+                "index": "852",
+                "name": "Python高效开发实战:Django、Tornado、Flask、Twisted 刘长龙 著 电子工业出版社 9787",
+                "commentNum": 0
+            },
+            {
+                "index": "853",
+                "name": "Python树莓派编程",
+                "commentNum": 0
+            },
+            {
+                "index": "854",
+                "name": "Python项目开发实战 第2版 日 BePROUD股份有限公司 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "855",
+                "name": "Python计算与编程实践：多媒体方法(原书第2版) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "856",
+                "name": "Python全栈开发实践入门 谢瑛俊著 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "857",
+                "name": "Python高性能编程",
+                "commentNum": 0
+            },
+            {
+                "index": "858",
+                "name": "Python技术手册 （美）马特利 著，程胜，杨萍 译 人民邮电出版社 9787115225832",
+                "commentNum": 0
+            },
+            {
+                "index": "859",
+                "name": "Python开发实战",
+                "commentNum": 0
+            },
+            {
+                "index": "860",
+                "name": "Python数据分析实战 【意】内利(Fabio Nelli) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "861",
+                "name": "Python图形编程：2D和3D图像的创建 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "862",
+                "name": "Python从入门到精通",
+                "commentNum": 0
+            },
+            {
+                "index": "863",
+                "name": "Python机器学习(原书第2版) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "864",
+                "name": "Python爬虫开发 从入门到实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "865",
+                "name": "Python 3 7网络爬虫快速入门 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "866",
+                "name": "Python3智能数据分析快速入门 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "867",
+                "name": "Python零基础入门学习 水木书荟 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "868",
+                "name": "Python数据科学入门",
+                "commentNum": 0
+            },
+            {
+                "index": "869",
+                "name": "Python零基础快乐学习之旅 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "870",
+                "name": "Python编程入门(第3版)",
+                "commentNum": 0
+            },
+            {
+                "index": "871",
+                "name": "{正版}Python Qt GUI快速编程-PyQt编程指南",
+                "commentNum": 0
+            },
+            {
+                "index": "872",
+                "name": "{正版}Python数据处理",
+                "commentNum": 0
+            },
+            {
+                "index": "873",
+                "name": "Python网络爬虫实战",
+                "commentNum": 0
+            },
+            {
+                "index": "874",
+                "name": "Python项目开发实战 第2版",
+                "commentNum": 0
+            },
+            {
+                "index": "875",
+                "name": "Python自然语言处理 伯德 (Steven Bird) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "876",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "877",
+                "name": "{正版}Python量化交易：策略、技巧与实战",
+                "commentNum": 0
+            },
+            {
+                "index": "878",
+                "name": "Python网络爬虫从入门到实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "879",
+                "name": "Python数据分析实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "880",
+                "name": "Python程序设计案例课堂 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "881",
+                "name": "Python数据科学手册 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "882",
+                "name": "{正版}Python编程从入门到实战的16堂课",
+                "commentNum": 0
+            },
+            {
+                "index": "883",
+                "name": "Python核心编程 第3版 英文版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "884",
+                "name": "Python网络爬虫权威指南 第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "885",
+                "name": "Python Cookbook中文版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "886",
+                "name": "Python编程 从入门到实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "887",
+                "name": "{正版}Python宝典",
+                "commentNum": 0
+            },
+            {
+                "index": "888",
+                "name": "Python数据分析从入门到精通",
+                "commentNum": 0
+            },
+            {
+                "index": "889",
+                "name": "Python高手之路 第3版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "890",
+                "name": "python程序设计与实战 常鹏飞 9787568286435 北京理工大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "891",
+                "name": "Python金融大数据分析 第2版 [德]伊夫·希尔皮斯科（YvesHilpisch）,姚军",
+                "commentNum": 0
+            },
+            {
+                "index": "892",
+                "name": "Python编程完全入门教程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "893",
+                "name": "Python数据分析与数据化运营 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "894",
+                "name": "Python访谈录 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "895",
+                "name": "Python开发向导 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "896",
+                "name": "Python在机器学习中的应用 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "897",
+                "name": "Python数据可视化之matplotlib精进 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "898",
+                "name": "Python数学编程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "899",
+                "name": "Python核心技术实战详解 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "900",
+                "name": "Python 3程序开发指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "901",
+                "name": "Python从入门到精通 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "902",
+                "name": "PYTHON自然语言处理 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "903",
+                "name": "Python数据分析基础 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "904",
+                "name": "Python编程入门经典 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "905",
+                "name": "{正版}Python物理建模初学者指南",
+                "commentNum": 0
+            },
+            {
+                "index": "906",
+                "name": "Python网络编程从入门到精通 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "907",
+                "name": "{正版}Python核心编程",
+                "commentNum": 0
+            },
+            {
+                "index": "908",
+                "name": "Python密码学编程 第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "909",
+                "name": "Python数据处理 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "910",
+                "name": "Python程序员面试算法宝典 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "911",
+                "name": "PYTHON3网络爬虫开发实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "912",
+                "name": "Python物理建模初学者指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "913",
+                "name": "Python网络编程(Linux) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "914",
+                "name": "Python自动化运维快速入门 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "915",
+                "name": "Python程序设计入门到实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "916",
+                "name": "Python数据可视化：基于Bokeh的可视化绘图 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "917",
+                "name": "Python程序设计与算法思维 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "918",
+                "name": "Python Flask Web开发入门与项目实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "919",
+                "name": "【保证正版】Python开发实战[日]BePROUD股份有限公司 著；9787115320896人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "920",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "921",
+                "name": "【保证正版】Python编程初学者指[美]道森（Michael Dawson9787115361448人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "922",
+                "name": "Python数据分析 活用Pandas库 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "923",
+                "name": "Python编程初学者指[美]道森（Michael Dawson人民邮电出版社9787115361448【限时秒杀】",
+                "commentNum": 0
+            },
+            {
+                "index": "924",
+                "name": "Python3学习笔记(上卷) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "925",
+                "name": "Python技术手册(第2版) 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "926",
+                "name": "Python数据分析第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "927",
+                "name": "Python基础教程 Magnus Lie Hetland 人民邮电出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "928",
+                "name": "Python从小白到大牛",
+                "commentNum": 0
+            },
+            {
+                "index": "929",
+                "name": "Python漫游指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "930",
+                "name": "Python机器学习经典实例 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "931",
+                "name": "Python宝典杨佩璐、宋强 著电子工业出版社【正版现货】",
+                "commentNum": 0
+            },
+            {
+                "index": "932",
+                "name": "Python机器学习第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "933",
+                "name": "Python数据分析入门――从数据获取到可视化",
+                "commentNum": 0
+            },
+            {
+                "index": "934",
+                "name": "Python量化交易实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "935",
+                "name": "Python程序设计开发宝典 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "936",
+                "name": "Python数据预处理技术与实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "937",
+                "name": "Python物理学高效计算 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "938",
+                "name": "Python性能分析与优化 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "939",
+                "name": "Python编程初学者指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "940",
+                "name": "Python金融实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "941",
+                "name": "Python网络爬虫 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "942",
+                "name": "Python编程与初级数学 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "943",
+                "name": "Python入门经典 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "944",
+                "name": "Python+Spark 2 0+Hadoop机器学习与大数据实战",
+                "commentNum": 0
+            },
+            {
+                "index": "945",
+                "name": "Python编程基础 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "946",
+                "name": "Python算法详解 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "947",
+                "name": "Python编程导论 第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "948",
+                "name": "Python算法教程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "949",
+                "name": "Python高性能 第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "950",
+                "name": "O&apos;Reilly：Python学习手册 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "951",
+                "name": "Python青少年趣味编程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "952",
+                "name": "Python 3标准库 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "953",
+                "name": "Python基础教程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "954",
+                "name": "Python数据科学实践指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "955",
+                "name": "Python并行编程参考手册 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "956",
+                "name": "Python自动化开发实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "957",
+                "name": "Python数据可视化 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "958",
+                "name": "Python高级编程 第2版 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "959",
+                "name": "Python自然语言处理 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "960",
+                "name": "Python程序设计教程 林信良 著",
+                "commentNum": 3
+            },
+            {
+                "index": "961",
+                "name": "Python面向对象编程指南 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "962",
+                "name": "Python金融大数据分析 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "963",
+                "name": "Python基础实例教程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "964",
+                "name": "Python地理数据处理",
+                "commentNum": 0
+            },
+            {
+                "index": "965",
+                "name": "Python地理数据处理 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "966",
+                "name": "Python 3 6从入门到精通",
+                "commentNum": 0
+            },
+            {
+                "index": "967",
+                "name": "Python数据科学入门 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "968",
+                "name": "Python入门 第2版 Bill，Lubanovic 著 东南大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "969",
+                "name": "Python网络数据采集 [美] 瑞安·米切尔 著 9787564179779",
+                "commentNum": 0
+            },
+            {
+                "index": "970",
+                "name": "Python编程基础 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "971",
+                "name": "Python编程与应用实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "972",
+                "name": "Python深度学习实战 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "973",
+                "name": "Python少儿趣味编程 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "974",
+                "name": "Python从菜鸟到高手 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "975",
+                "name": "Python开发技术详解 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "976",
+                "name": "Python科学计算",
+                "commentNum": 0
+            },
+            {
+                "index": "977",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "978",
+                "name": "Python程序设计案例教程,徐光侠,常光辉,解绍词,黄德玲,9787115452139,人民邮电出版社,[质量保证,放",
+                "commentNum": 0
+            },
+            {
+                "index": "979",
+                "name": "python编程从入门到精通 Python网络爬虫核心编程数据分析语言程序设计 电脑计算机编程零,明日科技,电子工业出版",
+                "commentNum": 0
+            },
+            {
+                "index": "980",
+                "name": "Python数据挖掘入门与实践,[澳] Robert Layton,人民邮电出版社【正版书】",
+                "commentNum": 0
+            },
+            {
+                "index": "981",
+                "name": "Python股票量化交易从入门到实践 袁霄 著",
+                "commentNum": 0
+            },
+            {
+                "index": "982",
+                "name": "Python编程初学者指南",
+                "commentNum": 0
+            },
+            {
+                "index": "983",
+                "name": "Python渗透测试编程技术:方法与实践:methods & practices,李华峰,清华大学出版社【正版】",
+                "commentNum": 1
+            },
+            {
+                "index": "984",
+                "name": "Python入门经典",
+                "commentNum": 0
+            },
+            {
+                "index": "985",
+                "name": "Python开发技术详解",
+                "commentNum": 0
+            },
+            {
+                "index": "986",
+                "name": "Python忍者秘籍 [美]科迪·杰克逊（CodyJackson）,李俊毅",
+                "commentNum": 0
+            },
+            {
+                "index": "987",
+                "name": "Python开发实战9787115320896人民邮电出版社【全店打折】",
+                "commentNum": 0
+            },
+            {
+                "index": "988",
+                "name": "Python人工智能开发从入门到精通杨柳,郭坦,鲁银芝北京大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "989",
+                "name": "【正版】Python自然语言处理[美]Steven、Bird Ewan、人民邮电出版社9787115333681【达额立",
+                "commentNum": 0
+            },
+            {
+                "index": "990",
+                "name": "Python高级编程",
+                "commentNum": 0
+            },
+            {
+                "index": "991",
+                "name": "Python网络爬虫权威指南 第2版",
+                "commentNum": 0
+            },
+            {
+                "index": "992",
+                "name": "Python自动化运维:技术与实践",
+                "commentNum": 0
+            },
+            {
+                "index": "993",
+                "name": "Python3智能数据分析快速入门 李明江,张良均,周东平,张尚佳 机械工业出版社 9787111628057",
+                "commentNum": 0
+            },
+            {
+                "index": "994",
+                "name": "Python编程实践 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "995",
+                "name": "【特价秒杀】Python编程初学者指人民邮电出版社9787115361448[美]道森（Mich",
+                "commentNum": 0
+            },
+            {
+                "index": "996",
+                "name": "Python科学计算 正版 支持7天无理由",
+                "commentNum": 0
+            },
+            {
+                "index": "997",
+                "name": "Python数据分析：基于Plotly的动态可视化绘图",
+                "commentNum": 0
+            },
+            {
+                "index": "998",
+                "name": "Python编程初学者指[美]道森（Michael Dawson人民邮电出版社9787115361448【急速发货】",
+                "commentNum": 0
+            },
+            {
+                "index": "999",
+                "name": "Python数据科学实践常象宇，曾智亿，李春艳，程茜 著北京大学出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "1000",
+                "name": "Python速查手册·基础卷明日科技（MingRiSoft）著，明日科技 编北京希望电子出版社",
+                "commentNum": 0
+            },
+            {
+                "index": "1001",
+                "name": "Python程序设计与算法思维[美]斯图尔特·里杰斯（StuartReges）,苏小红,袁永机械工业出版社",
+                "commentNum": 0
+            }
+        ]
+    },
+    "commentnum_lessthan1000_books": {
+        "commentnum_lessthan1000_booksNum": 296,
+        "commentnum_lessthan1000_books": [
+            {
+                "index": "11",
+                "name": "少儿编程之旅 趣学Python",
+                "commentNum": 214
+            },
+            {
+                "index": "12",
+                "name": "Python编程从数据分析到机器学习实践（微课视频版）",
+                "commentNum": 684
+            },
+            {
+                "index": "15",
+                "name": "Python编程超级魔卡(全彩版)",
+                "commentNum": 323
+            },
+            {
+                "index": "17",
+                "name": "Python从入门到项目实践（全彩版）",
+                "commentNum": 989
+            },
+            {
+                "index": "21",
+                "name": "超简单：用Python让Excel飞起来",
+                "commentNum": 996
+            },
+            {
+                "index": "22",
+                "name": "Python编程锦囊（全彩版）",
+                "commentNum": 769
+            },
+            {
+                "index": "23",
+                "name": "Python实效编程百例·综合卷(全彩版)",
+                "commentNum": 405
+            },
+            {
+                "index": "24",
+                "name": "Python函数参考手册（全彩版）",
+                "commentNum": 222
+            },
+            {
+                "index": "26",
+                "name": "Python科学计算和数据科学应用(第2版) 使用NumPy、SciPy和matplotlib",
+                "commentNum": 529
+            },
+            {
+                "index": "30",
+                "name": "Python青少年趣味编程 少儿编程（彩印+微课视频讲解）",
+                "commentNum": 922
+            },
+            {
+                "index": "32",
+                "name": "Python+Kivy(App开发)从入门到实践(全彩版)",
+                "commentNum": 199
+            },
+            {
+                "index": "33",
+                "name": "Python项目开发实战入门（全彩版）",
+                "commentNum": 296
+            },
+            {
+                "index": "34",
+                "name": "Python速查手册·基础卷（全彩版）",
+                "commentNum": 159
+            },
+            {
+                "index": "39",
+                "name": "Python速查手册·模块卷（全彩版）",
+                "commentNum": 154
+            },
+            {
+                "index": "42",
+                "name": "看漫画学Python：有趣、有料、好玩、好用（全彩版）",
+                "commentNum": 995
+            },
+            {
+                "index": "45",
+                "name": "【自营】python编程入门指南 Web/Django/Pygame/Flask Web/网络爬虫/可搭C语言/java",
+                "commentNum": 496
+            },
+            {
+                "index": "48",
+                "name": "笨办法学Python 3 进阶篇",
+                "commentNum": 451
+            },
+            {
+                "index": "49",
+                "name": "Python编程三剑客 Python编程从入门到实践 第2版/Python编程快速上手 让繁琐工作",
+                "commentNum": 422
+            },
+            {
+                "index": "50",
+                "name": "【2020新版】Python编程从入门到实践第2版 Python3.5语言程序python3数据分析实战计算机编程入门网",
+                "commentNum": 278
+            },
+            {
+                "index": "52",
+                "name": "Python3网络爬虫宝典",
+                "commentNum": 150
+            },
+            {
+                "index": "54",
+                "name": "Python快速编程入门",
+                "commentNum": 665
+            },
+            {
+                "index": "56",
+                "name": "Python趣味案例编程(全彩版)",
+                "commentNum": 161
+            },
+            {
+                "index": "61",
+                "name": "Python数据分析与可视化从入门到精通",
+                "commentNum": 497
+            },
+            {
+                "index": "63",
+                "name": "Python股票量化交易从入门到实践",
+                "commentNum": 592
+            },
+            {
+                "index": "65",
+                "name": "Python安全攻防：渗透测试实战指南",
+                "commentNum": 449
+            },
+            {
+                "index": "68",
+                "name": "Python数学编程",
+                "commentNum": 744
+            },
+            {
+                "index": "69",
+                "name": "Python数据结构与算法分析 第2版",
+                "commentNum": 954
+            },
+            {
+                "index": "70",
+                "name": "Python量化投资：技术 模型与策略",
+                "commentNum": 101
+            },
+            {
+                "index": "71",
+                "name": "Python最优化算法实战",
+                "commentNum": 323
+            },
+            {
+                "index": "72",
+                "name": "Python预测之美：数据分析与算法实战",
+                "commentNum": 192
+            },
+            {
+                "index": "74",
+                "name": "面向中小学教师的Python编程入门",
+                "commentNum": 388
+            },
+            {
+                "index": "76",
+                "name": "Python 3.x网络爬虫从零基础到项目实战",
+                "commentNum": 169
+            },
+            {
+                "index": "81",
+                "name": "基于Python的智能文本分析",
+                "commentNum": 378
+            },
+            {
+                "index": "84",
+                "name": "Python GUI设计——tkinter菜鸟编程",
+                "commentNum": 799
+            },
+            {
+                "index": "85",
+                "name": "人工智能+机器人入门与实战 用树莓派+Python+OpenCV制作计算机视觉机器人",
+                "commentNum": 342
+            },
+            {
+                "index": "87",
+                "name": "Python程序设计（第3版）",
+                "commentNum": 136
+            },
+            {
+                "index": "88",
+                "name": "自然语言处理实战 利用Python理解、分析和生成文本",
+                "commentNum": 492
+            },
+            {
+                "index": "89",
+                "name": "MINECRAFT编程：使用Python语言玩转我的世界",
+                "commentNum": 274
+            },
+            {
+                "index": "91",
+                "name": "趣味编程三剑客：从Scratch迈向Python和C++",
+                "commentNum": 316
+            },
+            {
+                "index": "93",
+                "name": "Python编程 从入门到实践+Excel 2016实战技巧精粹辞典（全技巧视频版）",
+                "commentNum": 239
+            },
+            {
+                "index": "94",
+                "name": "SQLAlchemy Python数据库实战 第2版",
+                "commentNum": 172
+            },
+            {
+                "index": "97",
+                "name": "Python量化炒股入门与实战技巧",
+                "commentNum": 192
+            },
+            {
+                "index": "99",
+                "name": "Python青少年趣味编程",
+                "commentNum": 165
+            },
+            {
+                "index": "101",
+                "name": "Python核心编程从入门到开发实战",
+                "commentNum": 148
+            },
+            {
+                "index": "102",
+                "name": "算法精粹 经典计算机科学问题的Python实现",
+                "commentNum": 306
+            },
+            {
+                "index": "104",
+                "name": "Python编程基础与案例集锦（中学版）",
+                "commentNum": 266
+            },
+            {
+                "index": "106",
+                "name": "Python机器学习实战案例",
+                "commentNum": 214
+            },
+            {
+                "index": "109",
+                "name": "Python数据可视化之matplotlib精进",
+                "commentNum": 852
+            },
+            {
+                "index": "110",
+                "name": "中学生Python创意编程",
+                "commentNum": 105
+            },
+            {
+                "index": "112",
+                "name": "Python数据分析与大数据处理从入门到精通",
+                "commentNum": 838
+            },
+            {
+                "index": "115",
+                "name": "Python快乐编程——网络爬虫",
+                "commentNum": 270
+            },
+            {
+                "index": "116",
+                "name": "Python金融实战案例精粹",
+                "commentNum": 648
+            },
+            {
+                "index": "117",
+                "name": "Python程序设计基础（第2版）",
+                "commentNum": 221
+            },
+            {
+                "index": "119",
+                "name": "Python机器学习及实践",
+                "commentNum": 138
+            },
+            {
+                "index": "120",
+                "name": "Python 3.8从入门到精通（视频教学版）",
+                "commentNum": 156
+            },
+            {
+                "index": "122",
+                "name": "Python 3.7网络爬虫快速入门",
+                "commentNum": 157
+            },
+            {
+                "index": "125",
+                "name": "Python数据分析、挖掘与可视化（慕课版）",
+                "commentNum": 231
+            },
+            {
+                "index": "127",
+                "name": "Python Web 开发从入门到实战（Django+Bootstrap）-微课视频版",
+                "commentNum": 217
+            },
+            {
+                "index": "128",
+                "name": "Python数字信号处理应用",
+                "commentNum": 624
+            },
+            {
+                "index": "131",
+                "name": "Python网络爬虫从入门到实践",
+                "commentNum": 779
+            },
+            {
+                "index": "134",
+                "name": "物联网应用设计与实战：基于AVR单片机和Python",
+                "commentNum": 133
+            },
+            {
+                "index": "137",
+                "name": "Python数学实验与建模",
+                "commentNum": 269
+            },
+            {
+                "index": "138",
+                "name": "Python游戏趣味编程",
+                "commentNum": 230
+            },
+            {
+                "index": "139",
+                "name": "Django实战 Python Web典型模块与项目开发",
+                "commentNum": 179
+            },
+            {
+                "index": "142",
+                "name": "Python程序设计与算法基础教程（第2版）-微课版",
+                "commentNum": 272
+            },
+            {
+                "index": "143",
+                "name": "Python金融大数据风控建模实战：基于机器学习",
+                "commentNum": 230
+            },
+            {
+                "index": "144",
+                "name": "Python基础教程（附教学视频）",
+                "commentNum": 354
+            },
+            {
+                "index": "151",
+                "name": "Python网络爬虫从入门到实践 第2版",
+                "commentNum": 808
+            },
+            {
+                "index": "152",
+                "name": "Python——统计人的视角(统计数据分析与应用丛书)",
+                "commentNum": 471
+            },
+            {
+                "index": "153",
+                "name": "Python聊天机器人开发：基于自然语言处理与机器学习",
+                "commentNum": 193
+            },
+            {
+                "index": "154",
+                "name": "Python期货量化交易实战",
+                "commentNum": 415
+            },
+            {
+                "index": "156",
+                "name": "Python自动化运维快速入门",
+                "commentNum": 684
+            },
+            {
+                "index": "158",
+                "name": "Python人工智能开发从入门到精通",
+                "commentNum": 161
+            },
+            {
+                "index": "160",
+                "name": "Python数据分析与可视化-微课视频版",
+                "commentNum": 282
+            },
+            {
+                "index": "161",
+                "name": "智能风控：Python金融风险管理与评分卡建模",
+                "commentNum": 852
+            },
+            {
+                "index": "164",
+                "name": "Python网络爬虫开发从入门到精通",
+                "commentNum": 302
+            },
+            {
+                "index": "165",
+                "name": "Python少儿趣味编程",
+                "commentNum": 720
+            },
+            {
+                "index": "168",
+                "name": "Python渗透测试编程技术：方法与实践",
+                "commentNum": 889
+            },
+            {
+                "index": "170",
+                "name": "算法实例精讲—Python语言实现",
+                "commentNum": 205
+            },
+            {
+                "index": "171",
+                "name": "经济金融数据分析及其Python应用",
+                "commentNum": 233
+            },
+            {
+                "index": "172",
+                "name": "python在机器学习中的应用",
+                "commentNum": 820
+            },
+            {
+                "index": "177",
+                "name": "青少年Python创意编程趣味课堂（微课版）",
+                "commentNum": 357
+            },
+            {
+                "index": "179",
+                "name": "Python神经网络入门与实战",
+                "commentNum": 125
+            },
+            {
+                "index": "181",
+                "name": "Python网络编程(Linux)",
+                "commentNum": 318
+            },
+            {
+                "index": "184",
+                "name": "Python程序设计教程（第2版）",
+                "commentNum": 138
+            },
+            {
+                "index": "188",
+                "name": "Python设计模式 第2版",
+                "commentNum": 858
+            },
+            {
+                "index": "190",
+                "name": "网络工程师的Python之路：网络运维自动化实战",
+                "commentNum": 108
+            },
+            {
+                "index": "193",
+                "name": "高顿财经 Python 金融编程 快速入门与项目实操 金融从业参考书 Python编程从入门到金融实践",
+                "commentNum": 459
+            },
+            {
+                "index": "194",
+                "name": "从Scratch到Python轻松学",
+                "commentNum": 497
+            },
+            {
+                "index": "196",
+                "name": "Python图形编程：2D和3D图像的创建",
+                "commentNum": 143
+            },
+            {
+                "index": "197",
+                "name": "父与子的编程之旅 与小卡特一起学Python 第3版（全彩印刷）",
+                "commentNum": 189
+            },
+            {
+                "index": "198",
+                "name": "基于股票大数据分析的Python入门实战（视频教学版）",
+                "commentNum": 187
+            },
+            {
+                "index": "199",
+                "name": "Python贝叶斯分析",
+                "commentNum": 929
+            },
+            {
+                "index": "203",
+                "name": "Python Django Web典型模块开发实战",
+                "commentNum": 322
+            },
+            {
+                "index": "204",
+                "name": "Python大数据分析与机器学习商业案例实战",
+                "commentNum": 409
+            },
+            {
+                "index": "208",
+                "name": "Python极简讲义：一本书入门数据分析与机器学习",
+                "commentNum": 308
+            },
+            {
+                "index": "209",
+                "name": "Python数据分析 活用Pandas库",
+                "commentNum": 515
+            },
+            {
+                "index": "211",
+                "name": "Python程序设计基础与应用",
+                "commentNum": 194
+            },
+            {
+                "index": "215",
+                "name": "Python自动化测试实战",
+                "commentNum": 680
+            },
+            {
+                "index": "217",
+                "name": "Python实战入门三剑客（套装共3册）",
+                "commentNum": 115
+            },
+            {
+                "index": "218",
+                "name": "Effective Python：改善Python程序的90个建议 （第2版）（英文版）",
+                "commentNum": 161
+            },
+            {
+                "index": "224",
+                "name": "Python量化交易",
+                "commentNum": 831
+            },
+            {
+                "index": "225",
+                "name": "Python机器学习算法: 原理、实现与案例",
+                "commentNum": 226
+            },
+            {
+                "index": "226",
+                "name": "Python与开源GIS：数据处理、空间分析与地图制图",
+                "commentNum": 494
+            },
+            {
+                "index": "228",
+                "name": "基于Python的语料库数据处理",
+                "commentNum": 241
+            },
+            {
+                "index": "232",
+                "name": "科学计算基础编程——Python版 （第五版）",
+                "commentNum": 176
+            },
+            {
+                "index": "236",
+                "name": "【自营】C++编程入门指南 Visual C++计算机程序员软件开发教材/可搭C语言/python/HTML/CSS/C",
+                "commentNum": 105
+            },
+            {
+                "index": "246",
+                "name": "Python量化交易实战",
+                "commentNum": 864
+            },
+            {
+                "index": "251",
+                "name": "Python密码学编程 第2版",
+                "commentNum": 262
+            },
+            {
+                "index": "253",
+                "name": "从零开始学Python大数据与量化交易",
+                "commentNum": 310
+            },
+            {
+                "index": "254",
+                "name": "Python爬虫大数据采集与挖掘-微课视频版（大数据与人工智能技术丛书）",
+                "commentNum": 190
+            },
+            {
+                "index": "260",
+                "name": "Python数据分析全流程实操指南",
+                "commentNum": 192
+            },
+            {
+                "index": "262",
+                "name": "金融工程及其Python应用",
+                "commentNum": 119
+            },
+            {
+                "index": "264",
+                "name": "Python自动化运维实战",
+                "commentNum": 317
+            },
+            {
+                "index": "268",
+                "name": "Python 网络爬虫从入门到精通",
+                "commentNum": 687
+            },
+            {
+                "index": "271",
+                "name": "用Python实现深度学习框架",
+                "commentNum": 102
+            },
+            {
+                "index": "272",
+                "name": "算法—Python语言实现",
+                "commentNum": 236
+            },
+            {
+                "index": "275",
+                "name": "Python 3快速入门与实战",
+                "commentNum": 713
+            },
+            {
+                "index": "278",
+                "name": "精通Python设计模式 第2版",
+                "commentNum": 568
+            },
+            {
+                "index": "279",
+                "name": "趣学Python游戏编程",
+                "commentNum": 191
+            },
+            {
+                "index": "282",
+                "name": "Python Web自动化测试入门与实战",
+                "commentNum": 128
+            },
+            {
+                "index": "289",
+                "name": "Python王者归来",
+                "commentNum": 520
+            },
+            {
+                "index": "290",
+                "name": "Python Qt GUI与数据可视化编程 pyqt5教程书籍 pyqt5快速开发与实战Qt5 GU",
+                "commentNum": 160
+            },
+            {
+                "index": "291",
+                "name": "Python语言程序设计",
+                "commentNum": 213
+            },
+            {
+                "index": "292",
+                "name": "数据结构和算法 Python和C++语言描述",
+                "commentNum": 169
+            },
+            {
+                "index": "295",
+                "name": "Python与有限元--基于Python编程的有限元分析及应用扩展",
+                "commentNum": 541
+            },
+            {
+                "index": "299",
+                "name": "Python接口自动化测试",
+                "commentNum": 490
+            },
+            {
+                "index": "301",
+                "name": "Python数学编程 Python编程从入门到实践 Python基础教程 Python数据分析数据科",
+                "commentNum": 124
+            },
+            {
+                "index": "302",
+                "name": "给Python点颜色 青少年学编程",
+                "commentNum": 619
+            },
+            {
+                "index": "303",
+                "name": "基于Python语言的Selenium自动化测试",
+                "commentNum": 352
+            },
+            {
+                "index": "305",
+                "name": "Python树莓派编程",
+                "commentNum": 784
+            },
+            {
+                "index": "306",
+                "name": "Python数据可视化之Matplotlib与Pyecharts",
+                "commentNum": 141
+            },
+            {
+                "index": "307",
+                "name": "Python网络编程从入门到精通",
+                "commentNum": 160
+            },
+            {
+                "index": "310",
+                "name": "计算思维与Python编程",
+                "commentNum": 171
+            },
+            {
+                "index": "311",
+                "name": "实战Python设计模式：可复用面向对象软件开发实践",
+                "commentNum": 148
+            },
+            {
+                "index": "314",
+                "name": "我的Python世界 玩《Minecraft我的世界》学Python编程",
+                "commentNum": 877
+            },
+            {
+                "index": "316",
+                "name": "实战Python网络爬虫",
+                "commentNum": 731
+            },
+            {
+                "index": "318",
+                "name": "Python3爬虫实战：数据清洗、数据分析与可视化",
+                "commentNum": 496
+            },
+            {
+                "index": "321",
+                "name": "Python高效开发实战——Django、Tornado、Flask、Twisted（第2版）",
+                "commentNum": 823
+            },
+            {
+                "index": "326",
+                "name": "Python 3破冰人工智能 从入门到实战",
+                "commentNum": 556
+            },
+            {
+                "index": "327",
+                "name": "Python数据分析从入门到精通",
+                "commentNum": 182
+            },
+            {
+                "index": "332",
+                "name": "Python算法详解",
+                "commentNum": 823
+            },
+            {
+                "index": "333",
+                "name": "Python入门三剑客：零基础编程+数据分析+机器学习（套装共3册）",
+                "commentNum": 186
+            },
+            {
+                "index": "335",
+                "name": "Python机器学习核心算法编程实例",
+                "commentNum": 123
+            },
+            {
+                "index": "341",
+                "name": "利用Python轻松学数学",
+                "commentNum": 134
+            },
+            {
+                "index": "342",
+                "name": "程序员数学从零开始",
+                "commentNum": 268
+            },
+            {
+                "index": "343",
+                "name": "Python大数据分析从入门到精通",
+                "commentNum": 148
+            },
+            {
+                "index": "346",
+                "name": "从零开始学Python数据分析与挖掘（第2版）",
+                "commentNum": 208
+            },
+            {
+                "index": "347",
+                "name": "Python文本分析",
+                "commentNum": 635
+            },
+            {
+                "index": "348",
+                "name": "Python数据挖掘与机器学习实战",
+                "commentNum": 518
+            },
+            {
+                "index": "350",
+                "name": "Python地理数据处理",
+                "commentNum": 655
+            },
+            {
+                "index": "352",
+                "name": "Python入门到人工智能实战",
+                "commentNum": 126
+            },
+            {
+                "index": "359",
+                "name": "Python程序设计案例教程——从入门到机器学习（微课版）",
+                "commentNum": 176
+            },
+            {
+                "index": "360",
+                "name": "Anaconda数据科学实战",
+                "commentNum": 281
+            },
+            {
+                "index": "361",
+                "name": "Python数据可视化：基于Bokeh的可视化绘图",
+                "commentNum": 409
+            },
+            {
+                "index": "363",
+                "name": "Python编程 从入门到实践 第2版",
+                "commentNum": 232
+            },
+            {
+                "index": "366",
+                "name": "父与子的编程之旅：与爸爸一起学Python",
+                "commentNum": 434
+            },
+            {
+                "index": "367",
+                "name": "Python 深度学习实战：75个有关神经网络建模、强化学习与迁移学习的解决方案",
+                "commentNum": 632
+            },
+            {
+                "index": "372",
+                "name": "Python Flask Web开发入门与项目实战",
+                "commentNum": 481
+            },
+            {
+                "index": "374",
+                "name": "Python程序设计基础（第2版）",
+                "commentNum": 223
+            },
+            {
+                "index": "376",
+                "name": "Python数据科学实践",
+                "commentNum": 120
+            },
+            {
+                "index": "379",
+                "name": "数据结构和算法基础Python语言实现",
+                "commentNum": 114
+            },
+            {
+                "index": "380",
+                "name": "Python大数据与机器学习实战",
+                "commentNum": 151
+            },
+            {
+                "index": "382",
+                "name": "语料库与python应用 语料库翻译学文库",
+                "commentNum": 456
+            },
+            {
+                "index": "384",
+                "name": "Python程序员面试笔试宝典",
+                "commentNum": 180
+            },
+            {
+                "index": "390",
+                "name": "从零开始学Python（微课视频版）",
+                "commentNum": 345
+            },
+            {
+                "index": "391",
+                "name": "Selenium 3+Python 3自动化测试项目实战：从菜鸟到高手",
+                "commentNum": 572
+            },
+            {
+                "index": "394",
+                "name": "教孩子学Python编程",
+                "commentNum": 137
+            },
+            {
+                "index": "396",
+                "name": "Python微服务开发",
+                "commentNum": 495
+            },
+            {
+                "index": "397",
+                "name": "Python数据分析实战 第2版",
+                "commentNum": 251
+            },
+            {
+                "index": "401",
+                "name": "Python算法指南——程序员经典算法分析与实现",
+                "commentNum": 187
+            },
+            {
+                "index": "402",
+                "name": "Python自动化测试实战",
+                "commentNum": 647
+            },
+            {
+                "index": "408",
+                "name": "Python 3.8从零开始学",
+                "commentNum": 124
+            },
+            {
+                "index": "409",
+                "name": "Python+TensorFlow机器学习实战",
+                "commentNum": 424
+            },
+            {
+                "index": "412",
+                "name": "Python趣味编程与精彩实例",
+                "commentNum": 140
+            },
+            {
+                "index": "415",
+                "name": "Python数据分析与应用",
+                "commentNum": 876
+            },
+            {
+                "index": "426",
+                "name": "小天才学Python",
+                "commentNum": 902
+            },
+            {
+                "index": "427",
+                "name": "Python 快速入门 第3版",
+                "commentNum": 584
+            },
+            {
+                "index": "429",
+                "name": "Python数据科学零基础一本通",
+                "commentNum": 150
+            },
+            {
+                "index": "430",
+                "name": "Python设计模式",
+                "commentNum": 319
+            },
+            {
+                "index": "431",
+                "name": "Python人工智能项目实战",
+                "commentNum": 175
+            },
+            {
+                "index": "433",
+                "name": "Python Docker实战",
+                "commentNum": 220
+            },
+            {
+                "index": "435",
+                "name": "Python微控制器编程从零开始 使用MicroPython",
+                "commentNum": 380
+            },
+            {
+                "index": "436",
+                "name": "Python Web开发从入门到精通",
+                "commentNum": 100
+            },
+            {
+                "index": "439",
+                "name": "Python程序设计基础",
+                "commentNum": 147
+            },
+            {
+                "index": "440",
+                "name": "Python深度学习实战：基于TensorFlow和Keras的聊天机器人以及人脸、物体和语音识别",
+                "commentNum": 546
+            },
+            {
+                "index": "442",
+                "name": "Python和Pygame游戏开发指南",
+                "commentNum": 521
+            },
+            {
+                "index": "444",
+                "name": "Python编程：从入门到实践",
+                "commentNum": 299
+            },
+            {
+                "index": "445",
+                "name": "Python 3.6零基础入门与实战",
+                "commentNum": 244
+            },
+            {
+                "index": "446",
+                "name": "Python程序设计教程",
+                "commentNum": 145
+            },
+            {
+                "index": "448",
+                "name": "Python爬虫开发 从入门到实战（微课版）",
+                "commentNum": 829
+            },
+            {
+                "index": "449",
+                "name": "Python金融实战",
+                "commentNum": 915
+            },
+            {
+                "index": "450",
+                "name": "Python编程自学手册",
+                "commentNum": 123
+            },
+            {
+                "index": "451",
+                "name": "零基础轻松学Python：青少年趣味编程（全彩版）",
+                "commentNum": 327
+            },
+            {
+                "index": "453",
+                "name": "Python数据预处理技术与实践",
+                "commentNum": 195
+            },
+            {
+                "index": "456",
+                "name": "Python数据科学：技术详解与商业实践",
+                "commentNum": 556
+            },
+            {
+                "index": "459",
+                "name": "Python机器学习开发实战",
+                "commentNum": 118
+            },
+            {
+                "index": "461",
+                "name": "Python金融数据分析",
+                "commentNum": 484
+            },
+            {
+                "index": "464",
+                "name": "Python机器学习——数据分析与评分卡建模（微课版）",
+                "commentNum": 380
+            },
+            {
+                "index": "468",
+                "name": "Python程序设计基础",
+                "commentNum": 379
+            },
+            {
+                "index": "470",
+                "name": "Python带我起飞——入门、进阶、商业实战（python入门级，小白快速上手）",
+                "commentNum": 811
+            },
+            {
+                "index": "475",
+                "name": "趣学Python算法100例",
+                "commentNum": 120
+            },
+            {
+                "index": "479",
+                "name": "Python科学计算最佳实践 SciPy指南",
+                "commentNum": 268
+            },
+            {
+                "index": "480",
+                "name": "Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习",
+                "commentNum": 370
+            },
+            {
+                "index": "481",
+                "name": "Python函数式编程 第2版",
+                "commentNum": 188
+            },
+            {
+                "index": "485",
+                "name": "Python科学计算（原书第2版）",
+                "commentNum": 140
+            },
+            {
+                "index": "488",
+                "name": "计算机二级python 2021年考试 计算机python上机题库 二级python2021 全国计算机等级考试 黄金搭",
+                "commentNum": 303
+            },
+            {
+                "index": "493",
+                "name": "青少年学Python",
+                "commentNum": 955
+            },
+            {
+                "index": "494",
+                "name": "物联网Python开发实战",
+                "commentNum": 860
+            },
+            {
+                "index": "495",
+                "name": "Python青少年编程魔法课堂（案例+视频教学版）",
+                "commentNum": 110
+            },
+            {
+                "index": "496",
+                "name": "Python编程从0到1（视频教学版）",
+                "commentNum": 123
+            },
+            {
+                "index": "497",
+                "name": "Python开发技术大全",
+                "commentNum": 129
+            },
+            {
+                "index": "500",
+                "name": "Python高级数据分析：机器学习、深度学习和NLP实例",
+                "commentNum": 320
+            },
+            {
+                "index": "503",
+                "name": "Python数据可视化",
+                "commentNum": 479
+            },
+            {
+                "index": "510",
+                "name": "Python数据分析实战",
+                "commentNum": 333
+            },
+            {
+                "index": "511",
+                "name": "Python程序设计",
+                "commentNum": 189
+            },
+            {
+                "index": "512",
+                "name": "Python机器学习经典实例",
+                "commentNum": 951
+            },
+            {
+                "index": "513",
+                "name": "从零开始学Python",
+                "commentNum": 137
+            },
+            {
+                "index": "515",
+                "name": "Python轻松学:爬虫、游戏与架站",
+                "commentNum": 108
+            },
+            {
+                "index": "519",
+                "name": "Python入门经典",
+                "commentNum": 871
+            },
+            {
+                "index": "520",
+                "name": "Python 3.7从入门到精通（视频教学版）",
+                "commentNum": 237
+            },
+            {
+                "index": "521",
+                "name": "Python 新手学Django 2.0架站的16堂课（第2版）",
+                "commentNum": 479
+            },
+            {
+                "index": "522",
+                "name": "Python数据可视化编程实战 第2版",
+                "commentNum": 793
+            },
+            {
+                "index": "527",
+                "name": "Python网络编程（原书第2版）",
+                "commentNum": 129
+            },
+            {
+                "index": "536",
+                "name": "【自营】C语言编程入门指南 SQL Server/Visual Studio/Visual C++/可搭java/pyt",
+                "commentNum": 277
+            },
+            {
+                "index": "539",
+                "name": "自己动手写Python虚拟机",
+                "commentNum": 169
+            },
+            {
+                "index": "541",
+                "name": "深入理解Python特性",
+                "commentNum": 310
+            },
+            {
+                "index": "542",
+                "name": "Python数据分析与应用：从数据获取到可视化",
+                "commentNum": 100
+            },
+            {
+                "index": "544",
+                "name": "Python与数据挖掘",
+                "commentNum": 626
+            },
+            {
+                "index": "546",
+                "name": "Python 3.x全栈开发从入门到精通",
+                "commentNum": 289
+            },
+            {
+                "index": "549",
+                "name": "Python3智能数据分析快速入门",
+                "commentNum": 274
+            },
+            {
+                "index": "551",
+                "name": "实用卷积神经网络:运用Python实现高级深度学习模型",
+                "commentNum": 610
+            },
+            {
+                "index": "554",
+                "name": "Python零基础快乐学习之旅（K12实战训练）",
+                "commentNum": 109
+            },
+            {
+                "index": "557",
+                "name": "Python大规模机器学习",
+                "commentNum": 127
+            },
+            {
+                "index": "558",
+                "name": "Python网络爬虫技术",
+                "commentNum": 217
+            },
+            {
+                "index": "562",
+                "name": "Python核心编程 第3版 英文版",
+                "commentNum": 598
+            },
+            {
+                "index": "564",
+                "name": "Python和NLTK自然语言处理",
+                "commentNum": 276
+            },
+            {
+                "index": "565",
+                "name": "Python可以这样学",
+                "commentNum": 901
+            },
+            {
+                "index": "572",
+                "name": "零基础入门Python深度学习",
+                "commentNum": 124
+            },
+            {
+                "index": "580",
+                "name": "自动化平台测试开发：Python测试开发实战",
+                "commentNum": 971
+            },
+            {
+                "index": "583",
+                "name": "贝叶斯数据分析——基于R与Python的实现（基于R应用的统计学丛书",
+                "commentNum": 103
+            },
+            {
+                "index": "584",
+                "name": "Python社会媒体挖掘",
+                "commentNum": 173
+            },
+            {
+                "index": "586",
+                "name": "Python测试驱动开发 使用Django Selenium和JavaScript进行Web编程 第2版",
+                "commentNum": 326
+            },
+            {
+                "index": "591",
+                "name": "Python程序设计（原书第2版）",
+                "commentNum": 233
+            },
+            {
+                "index": "593",
+                "name": "机器学习算法的数学解析与Python实现",
+                "commentNum": 446
+            },
+            {
+                "index": "599",
+                "name": "计算机视觉与深度学习实战：以MATLAB、Python为工具",
+                "commentNum": 446
+            },
+            {
+                "index": "601",
+                "name": "Python 3.7从零开始学",
+                "commentNum": 939
+            },
+            {
+                "index": "602",
+                "name": "Python程序设计实验指导书",
+                "commentNum": 128
+            },
+            {
+                "index": "603",
+                "name": "写给儿童的编程启蒙书 少儿编程 scratch入门教程 python我的第一本编程思维启蒙书 幼儿编程教材 小学生课外阅",
+                "commentNum": 147
+            },
+            {
+                "index": "604",
+                "name": "Python 3 程序设计",
+                "commentNum": 105
+            },
+            {
+                "index": "605",
+                "name": "小天才学Python（教学指导）",
+                "commentNum": 375
+            },
+            {
+                "index": "606",
+                "name": "树莓派Python编程入门与实战（第2版）",
+                "commentNum": 357
+            },
+            {
+                "index": "608",
+                "name": "Python编程三剑客：Python编程从入门到实践+Python编程快速上手+Python极客项目编程",
+                "commentNum": 115
+            },
+            {
+                "index": "610",
+                "name": "计算机二级python题库试卷2021 未来教育 计算机等级考试二级python 2021年考试 上机考试题库+模拟考场",
+                "commentNum": 577
+            },
+            {
+                "index": "613",
+                "name": "Python趣味编程入门与实战",
+                "commentNum": 106
+            },
+            {
+                "index": "617",
+                "name": "Python 3.6从入门到精通（视频教学版）",
+                "commentNum": 116
+            },
+            {
+                "index": "619",
+                "name": "Python数据挖掘方法及应用",
+                "commentNum": 108
+            },
+            {
+                "index": "621",
+                "name": "Python机器学习 5个数据科学家案例解析",
+                "commentNum": 283
+            },
+            {
+                "index": "628",
+                "name": "Python 3.x基础教程",
+                "commentNum": 201
+            },
+            {
+                "index": "652",
+                "name": "图解机器学习—算法原理与Python语言实现 人工智能深度学习技术丛书",
+                "commentNum": 156
+            },
+            {
+                "index": "680",
+                "name": "Python编程基础与HTTP接口测试",
+                "commentNum": 384
+            },
+            {
+                "index": "683",
+                "name": "Python自然语言处理",
+                "commentNum": 165
+            },
+            {
+                "index": "687",
+                "name": "Python机器学习",
+                "commentNum": 351
+            },
+            {
+                "index": "689",
+                "name": "Python编程与初级数学",
+                "commentNum": 116
+            },
+            {
+                "index": "694",
+                "name": "高效自动化测试平台：设计与开发实战",
+                "commentNum": 158
+            },
+            {
+                "index": "695",
+                "name": "Python网络爬虫实例教程（视频讲解版）",
+                "commentNum": 313
+            },
+            {
+                "index": "699",
+                "name": "Python从入门到项目实践（超值版）",
+                "commentNum": 170
+            },
+            {
+                "index": "700",
+                "name": "中学生可以这样学Python",
+                "commentNum": 599
+            },
+            {
+                "index": "701",
+                "name": "Python 3.7编程快速入门",
+                "commentNum": 238
+            },
+            {
+                "index": "705",
+                "name": "写给系统管理员的Python脚本编程指南",
+                "commentNum": 200
+            },
+            {
+                "index": "711",
+                "name": "Python编程基础",
+                "commentNum": 262
+            },
+            {
+                "index": "716",
+                "name": "深入浅出GAN生成对抗网络 原理剖析与TensorFlow实践",
+                "commentNum": 287
+            },
+            {
+                "index": "719",
+                "name": "自然语言处理Python进阶",
+                "commentNum": 370
+            },
+            {
+                "index": "720",
+                "name": "Python数据科学与机器学习 从入门到实践",
+                "commentNum": 116
+            },
+            {
+                "index": "724",
+                "name": "人脸识别与美颜算法实战：基于Python 机器学习与深度学习",
+                "commentNum": 323
+            },
+            {
+                "index": "726",
+                "name": "Python极客项目编程",
+                "commentNum": 267
+            },
+            {
+                "index": "727",
+                "name": "跟着迪哥学Python数据分析与机器学习实战",
+                "commentNum": 325
+            },
+            {
+                "index": "728",
+                "name": "Django项目开发实战",
+                "commentNum": 343
+            },
+            {
+                "index": "733",
+                "name": "Python网络数据爬取及分析从入门到精通（爬取篇）（内容讲解专业但不晦涩，实例分析实际但不枯燥）",
+                "commentNum": 109
+            },
+            {
+                "index": "737",
+                "name": "Python经典实例",
+                "commentNum": 162
+            },
+            {
+                "index": "742",
+                "name": "Python数据分析基础教程",
+                "commentNum": 150
+            },
+            {
+                "index": "745",
+                "name": "精通Python自然语言处理",
+                "commentNum": 749
+            },
+            {
+                "index": "746",
+                "name": "啊哈编程星球：一本书入门Python和C++",
+                "commentNum": 231
+            },
+            {
+                "index": "748",
+                "name": "Python与神经网络实战",
+                "commentNum": 293
+            },
+            {
+                "index": "749",
+                "name": "21天学通Python（第2版）",
+                "commentNum": 382
+            },
+            {
+                "index": "751",
+                "name": "Python网络爬虫实战",
+                "commentNum": 166
+            },
+            {
+                "index": "752",
+                "name": "Python数据分析基础",
+                "commentNum": 233
+            },
+            {
+                "index": "753",
+                "name": "神经网络与深度学习实战 Python+Keras+TensorFlow",
+                "commentNum": 664
+            },
+            {
+                "index": "755",
+                "name": "Python数据可视化之美：专业图表绘制指南(全彩)",
+                "commentNum": 325
+            },
+            {
+                "index": "758",
+                "name": "Python基础视频教程",
+                "commentNum": 111
+            },
+            {
+                "index": "760",
+                "name": "机器学习入门：基于数学原理的Python实战",
+                "commentNum": 403
+            },
+            {
+                "index": "766",
+                "name": "面向ArcGIS的Python脚本编程",
+                "commentNum": 964
+            },
+            {
+                "index": "767",
+                "name": "Python数据分析师修炼之道",
+                "commentNum": 149
+            },
+            {
+                "index": "771",
+                "name": "正则指引（第2版）",
+                "commentNum": 933
+            },
+            {
+                "index": "773",
+                "name": "玩转Python网络爬虫",
+                "commentNum": 238
+            },
+            {
+                "index": "774",
+                "name": "Python程序设计（第2版）",
+                "commentNum": 720
+            }
+        ]
+    },
+    "commentnum_lessthan10000_books": {
+        "commentnum_lessthan10000_booksNum": 138,
+        "commentnum_lessthan10000_books": [
+            {
+                "index": "1",
+                "name": "疯狂Python讲义",
+                "commentNum": 8125
+            },
+            {
+                "index": "3",
+                "name": "零基础学Python（全彩版）",
+                "commentNum": 4640
+            },
+            {
+                "index": "5",
+                "name": "Python爬虫技术——深入理解原理、技术与开发",
+                "commentNum": 1155
+            },
+            {
+                "index": "6",
+                "name": "Python编程三剑客：Python编程从入门到实践第2版+Python编程快速上手+Python极客项目编程（当当套装",
+                "commentNum": 1890
+            },
+            {
+                "index": "9",
+                "name": "Python项目开发案例集锦（全彩版）",
+                "commentNum": 1411
+            },
+            {
+                "index": "10",
+                "name": "Python学习手册（原书第5版）",
+                "commentNum": 6551
+            },
+            {
+                "index": "13",
+                "name": "Python Qt GUI与数据可视化编程",
+                "commentNum": 2431
+            },
+            {
+                "index": "14",
+                "name": "Python数据可视化之美：专业图表绘制指南（全彩）",
+                "commentNum": 2522
+            },
+            {
+                "index": "16",
+                "name": "DK编程真好玩：9岁开始学Python",
+                "commentNum": 7803
+            },
+            {
+                "index": "18",
+                "name": "Python语言程序设计基础（第2版）",
+                "commentNum": 3763
+            },
+            {
+                "index": "27",
+                "name": "Python金融大数据分析 第2版",
+                "commentNum": 1175
+            },
+            {
+                "index": "31",
+                "name": "Python极客项目编程",
+                "commentNum": 1935
+            },
+            {
+                "index": "35",
+                "name": "Python深度学习",
+                "commentNum": 7778
+            },
+            {
+                "index": "36",
+                "name": "流畅的Python",
+                "commentNum": 8219
+            },
+            {
+                "index": "37",
+                "name": "Python从小白到大牛",
+                "commentNum": 5744
+            },
+            {
+                "index": "38",
+                "name": "零基础入门学习Python（第2版）-微课视频版",
+                "commentNum": 5277
+            },
+            {
+                "index": "40",
+                "name": "基于Python的大数据分析基础及实战",
+                "commentNum": 7321
+            },
+            {
+                "index": "41",
+                "name": "Python机器学习手册：从数据预处理到深度学习",
+                "commentNum": 2065
+            },
+            {
+                "index": "43",
+                "name": "Python机器学习基础教程",
+                "commentNum": 6193
+            },
+            {
+                "index": "44",
+                "name": "Python从入门到精通",
+                "commentNum": 1838
+            },
+            {
+                "index": "46",
+                "name": "Python网络爬虫权威指南 第2版",
+                "commentNum": 3522
+            },
+            {
+                "index": "47",
+                "name": "大数据分析：Python爬虫、数据清洗和数据可视化",
+                "commentNum": 1322
+            },
+            {
+                "index": "51",
+                "name": "Python编程（第四版）",
+                "commentNum": 8794
+            },
+            {
+                "index": "55",
+                "name": "Python编程无师自通 专业程序员的养成",
+                "commentNum": 2407
+            },
+            {
+                "index": "58",
+                "name": "潘石屹推荐 玩着也能学Python",
+                "commentNum": 1094
+            },
+            {
+                "index": "60",
+                "name": "Python金融大数据挖掘与分析全流程详解",
+                "commentNum": 1401
+            },
+            {
+                "index": "62",
+                "name": "Python从入门到项目实战（全程视频版）",
+                "commentNum": 1125
+            },
+            {
+                "index": "64",
+                "name": "Python编程从零基础到项目实战（微课视频版）",
+                "commentNum": 6986
+            },
+            {
+                "index": "66",
+                "name": "Python数据分析与挖掘实战（第2版）",
+                "commentNum": 1625
+            },
+            {
+                "index": "67",
+                "name": "数据结构与算法：Python语言实现",
+                "commentNum": 2398
+            },
+            {
+                "index": "75",
+                "name": "Python快乐编程基础入门（21世纪高等学校计算机专业实用规划教材）",
+                "commentNum": 5605
+            },
+            {
+                "index": "77",
+                "name": "Python袖珍指南（第五版）",
+                "commentNum": 1189
+            },
+            {
+                "index": "78",
+                "name": "Python 3标准库",
+                "commentNum": 1683
+            },
+            {
+                "index": "79",
+                "name": "Python真好玩：教孩子学编程",
+                "commentNum": 1753
+            },
+            {
+                "index": "80",
+                "name": "Python深度学习：基于PyTorch",
+                "commentNum": 1664
+            },
+            {
+                "index": "82",
+                "name": "深度学习入门 基于Python的理论与实现",
+                "commentNum": 7288
+            },
+            {
+                "index": "83",
+                "name": "Python数据可视化之matplotlib实践",
+                "commentNum": 1769
+            },
+            {
+                "index": "92",
+                "name": "Python绝技：运用Python成为顶级黑客",
+                "commentNum": 5597
+            },
+            {
+                "index": "95",
+                "name": "Python游戏编程快速上手 第4版",
+                "commentNum": 1655
+            },
+            {
+                "index": "98",
+                "name": "大话Python机器学习",
+                "commentNum": 1117
+            },
+            {
+                "index": "100",
+                "name": "Python 3爬虫、数据清洗与可视化实战",
+                "commentNum": 2142
+            },
+            {
+                "index": "107",
+                "name": "Python游戏编程入门",
+                "commentNum": 3402
+            },
+            {
+                "index": "108",
+                "name": "图解Python--轻松快速掌握实力派脚本语言精华",
+                "commentNum": 1628
+            },
+            {
+                "index": "118",
+                "name": "Python编程从入门到精通 项目开发视频学习版",
+                "commentNum": 3158
+            },
+            {
+                "index": "121",
+                "name": "OpenCV轻松入门：面向Python",
+                "commentNum": 1435
+            },
+            {
+                "index": "123",
+                "name": "Python项目案例开发从入门到实战——爬虫、游戏和机器学习",
+                "commentNum": 1291
+            },
+            {
+                "index": "126",
+                "name": "Python从菜鸟到高手",
+                "commentNum": 3974
+            },
+            {
+                "index": "129",
+                "name": "Python数据分析入门——从数据获取到可视化",
+                "commentNum": 1052
+            },
+            {
+                "index": "130",
+                "name": "Python 3 爬虫、数据清洗与可视化实战（第2版）",
+                "commentNum": 2322
+            },
+            {
+                "index": "140",
+                "name": "Python 3 面向对象编程（第2版）",
+                "commentNum": 1121
+            },
+            {
+                "index": "149",
+                "name": "Python 黑帽子：黑客与渗透测试编程之道",
+                "commentNum": 4988
+            },
+            {
+                "index": "166",
+                "name": "从零开始学Python数据分析与挖掘",
+                "commentNum": 1110
+            },
+            {
+                "index": "167",
+                "name": "量化投资：以Python为工具",
+                "commentNum": 4434
+            },
+            {
+                "index": "173",
+                "name": "Python+Spark 2.0+Hadoop机器学习与大数据实战",
+                "commentNum": 1333
+            },
+            {
+                "index": "174",
+                "name": "机器学习线性代数基础：Python语言描述",
+                "commentNum": 1962
+            },
+            {
+                "index": "175",
+                "name": "Effective Python:编写高质量Python代码的59个有效方法",
+                "commentNum": 2760
+            },
+            {
+                "index": "178",
+                "name": "Python数据分析基础",
+                "commentNum": 2813
+            },
+            {
+                "index": "182",
+                "name": "Python编程之美：最佳实践指南",
+                "commentNum": 1176
+            },
+            {
+                "index": "187",
+                "name": "零基础轻松学Python",
+                "commentNum": 2255
+            },
+            {
+                "index": "189",
+                "name": "Python高级编程 第2版",
+                "commentNum": 1673
+            },
+            {
+                "index": "191",
+                "name": "Python数据科学手册",
+                "commentNum": 3320
+            },
+            {
+                "index": "202",
+                "name": "像计算机科学家一样思考Python 第2版",
+                "commentNum": 3235
+            },
+            {
+                "index": "206",
+                "name": "Python程序员面试算法宝典",
+                "commentNum": 1156
+            },
+            {
+                "index": "207",
+                "name": "基于Python的金融分析与风险管理",
+                "commentNum": 3987
+            },
+            {
+                "index": "210",
+                "name": "Python自然语言处理",
+                "commentNum": 5949
+            },
+            {
+                "index": "214",
+                "name": "Python自然语言处理实战：核心技术与算法",
+                "commentNum": 2599
+            },
+            {
+                "index": "221",
+                "name": "Python数据分析基础教程：NumPy学习指南(第2版)",
+                "commentNum": 1068
+            },
+            {
+                "index": "222",
+                "name": "Python数据分析与数据化运营 第2版",
+                "commentNum": 1572
+            },
+            {
+                "index": "229",
+                "name": "青少年Python编程入门",
+                "commentNum": 1809
+            },
+            {
+                "index": "235",
+                "name": "Python统计分析",
+                "commentNum": 1871
+            },
+            {
+                "index": "244",
+                "name": "Python地理空间分析指南（第2版）",
+                "commentNum": 1633
+            },
+            {
+                "index": "245",
+                "name": "Python数据处理",
+                "commentNum": 1698
+            },
+            {
+                "index": "247",
+                "name": "Python与量化投资：从基础到实战",
+                "commentNum": 2158
+            },
+            {
+                "index": "248",
+                "name": "Python 3反爬虫原理与绕过实战",
+                "commentNum": 1069
+            },
+            {
+                "index": "252",
+                "name": "Python趣味编程：从入门到人工智能",
+                "commentNum": 1059
+            },
+            {
+                "index": "255",
+                "name": "Python机器学习（原书第2版）",
+                "commentNum": 1096
+            },
+            {
+                "index": "256",
+                "name": "数据结构与算法：Python语言描述",
+                "commentNum": 2269
+            },
+            {
+                "index": "259",
+                "name": "Python计算机视觉编程【陈熙霖作序推荐！ Amazon.com计算机视觉类图书卖的很好的作品！】",
+                "commentNum": 2539
+            },
+            {
+                "index": "261",
+                "name": "用Python写网络爬虫 第2版",
+                "commentNum": 2804
+            },
+            {
+                "index": "276",
+                "name": "Python人脸识别：从入门到工程实践",
+                "commentNum": 1141
+            },
+            {
+                "index": "284",
+                "name": "Python语言程序设计(Daniel Liang[梁勇]博士系列丛书之一，以实例教，由实践学，采用基础先行、问题驱动的",
+                "commentNum": 1213
+            },
+            {
+                "index": "285",
+                "name": "Python高性能编程",
+                "commentNum": 1830
+            },
+            {
+                "index": "293",
+                "name": "贝叶斯思维 统计建模的Python学习法",
+                "commentNum": 4898
+            },
+            {
+                "index": "309",
+                "name": "Python算法教程",
+                "commentNum": 5009
+            },
+            {
+                "index": "319",
+                "name": "Head First Python(第二版)",
+                "commentNum": 4422
+            },
+            {
+                "index": "320",
+                "name": "Python科学计算(第2版)",
+                "commentNum": 2528
+            },
+            {
+                "index": "323",
+                "name": "Python深度学习：基于TensorFlow",
+                "commentNum": 1293
+            },
+            {
+                "index": "325",
+                "name": "强化学习：原理与Python实现",
+                "commentNum": 1003
+            },
+            {
+                "index": "328",
+                "name": "Python Linux系统管理与自动化运维",
+                "commentNum": 1094
+            },
+            {
+                "index": "329",
+                "name": "Web接口开发与自动化测试——基于Python语言",
+                "commentNum": 3270
+            },
+            {
+                "index": "331",
+                "name": "Python程序员面试宝典 剑指offer",
+                "commentNum": 1116
+            },
+            {
+                "index": "334",
+                "name": "Python黑客攻防入门",
+                "commentNum": 1021
+            },
+            {
+                "index": "339",
+                "name": "Python机器学习及实践---- 从零开始通往Kaggle竞赛之路",
+                "commentNum": 1451
+            },
+            {
+                "index": "351",
+                "name": "Python网络编程 第3版",
+                "commentNum": 1021
+            },
+            {
+                "index": "355",
+                "name": "贝叶斯方法 概率编程与贝叶斯推断",
+                "commentNum": 3303
+            },
+            {
+                "index": "356",
+                "name": "精通Python爬虫框架Scrapy",
+                "commentNum": 6900
+            },
+            {
+                "index": "357",
+                "name": "趣学Python编程",
+                "commentNum": 3213
+            },
+            {
+                "index": "365",
+                "name": "Python程序设计 第3版",
+                "commentNum": 2397
+            },
+            {
+                "index": "368",
+                "name": "Python编程导论 第2版",
+                "commentNum": 1440
+            },
+            {
+                "index": "369",
+                "name": "Python与机器学习实战：决策树、集成学习、支持向量机与神经网络算法详解及编程实现",
+                "commentNum": 3205
+            },
+            {
+                "index": "375",
+                "name": "深入浅出Python机器学习",
+                "commentNum": 2022
+            },
+            {
+                "index": "393",
+                "name": "趣学Python——教孩子学编程",
+                "commentNum": 3064
+            },
+            {
+                "index": "399",
+                "name": "Python语言在Abaqus中的应用",
+                "commentNum": 1370
+            },
+            {
+                "index": "405",
+                "name": "Selenium3自动化测试实战——基于Python语言",
+                "commentNum": 1728
+            },
+            {
+                "index": "407",
+                "name": "从零开始学Python数据分析（视频教学版）",
+                "commentNum": 1553
+            },
+            {
+                "index": "414",
+                "name": "Python自动化运维：技术与最佳实践",
+                "commentNum": 2915
+            },
+            {
+                "index": "420",
+                "name": "Python机器学习 预测分析核心算法",
+                "commentNum": 3510
+            },
+            {
+                "index": "423",
+                "name": "Python语言及其应用",
+                "commentNum": 1056
+            },
+            {
+                "index": "424",
+                "name": "Python机器学习实践指南",
+                "commentNum": 6841
+            },
+            {
+                "index": "428",
+                "name": "Python数据分析 第2版",
+                "commentNum": 1394
+            },
+            {
+                "index": "432",
+                "name": "超简单：用Python让Excel飞起来",
+                "commentNum": 1077
+            },
+            {
+                "index": "434",
+                "name": "父与子的编程之旅：与小卡特一起学Python",
+                "commentNum": 7764
+            },
+            {
+                "index": "437",
+                "name": "量化交易之路 用Python做股票量化分析",
+                "commentNum": 2960
+            },
+            {
+                "index": "441",
+                "name": "零起点Python大数据与量化交易",
+                "commentNum": 2339
+            },
+            {
+                "index": "460",
+                "name": "小小的Python编程故事",
+                "commentNum": 3528
+            },
+            {
+                "index": "463",
+                "name": "Python深度学习",
+                "commentNum": 1114
+            },
+            {
+                "index": "467",
+                "name": "ABAQUS Python二次开发攻略 CAE分析大系",
+                "commentNum": 1406
+            },
+            {
+                "index": "469",
+                "name": "Python 3 数据分析与机器学习实战",
+                "commentNum": 1061
+            },
+            {
+                "index": "489",
+                "name": "Python测试之道",
+                "commentNum": 1272
+            },
+            {
+                "index": "490",
+                "name": "Python编程快速上手 让繁琐工作自动化",
+                "commentNum": 4113
+            },
+            {
+                "index": "517",
+                "name": "你也能看得懂的Python算法书",
+                "commentNum": 4167
+            },
+            {
+                "index": "524",
+                "name": "Python 3.5从零开始学",
+                "commentNum": 2947
+            },
+            {
+                "index": "528",
+                "name": "跟我一起玩Python编程(共2册):教孩子快速掌握编程技巧",
+                "commentNum": 1765
+            },
+            {
+                "index": "533",
+                "name": "Python参考手册 第4版 修订版",
+                "commentNum": 1610
+            },
+            {
+                "index": "547",
+                "name": "基于ArcGIS的Python编程秘笈（第2版）",
+                "commentNum": 1025
+            },
+            {
+                "index": "553",
+                "name": "数据结构 Python语言描述",
+                "commentNum": 4795
+            },
+            {
+                "index": "563",
+                "name": "Flask Web开发 基于Python的Web应用开发实战 第2版",
+                "commentNum": 1302
+            },
+            {
+                "index": "573",
+                "name": "利用Python进行数据分析(原书第2版)",
+                "commentNum": 2222
+            },
+            {
+                "index": "581",
+                "name": "从零开始学Python网络爬虫",
+                "commentNum": 1875
+            },
+            {
+                "index": "587",
+                "name": "机器学习：使用OpenCV和Python进行智能图像处理",
+                "commentNum": 1930
+            },
+            {
+                "index": "686",
+                "name": "OpenCV 3计算机视觉：Python语言实现（原书第2版）",
+                "commentNum": 2926
+            },
+            {
+                "index": "696",
+                "name": "Python Web开发实战",
+                "commentNum": 1271
+            },
+            {
+                "index": "714",
+                "name": "OpenCV算法精解：基于Python与C++",
+                "commentNum": 1584
+            },
+            {
+                "index": "717",
+                "name": "Python大战机器学习：数据科学家的第一个小目标",
+                "commentNum": 2325
+            },
+            {
+                "index": "735",
+                "name": "Python 3学习笔记（上卷）",
+                "commentNum": 1800
+            },
+            {
+                "index": "747",
+                "name": "Python爬虫开发与项目实战",
+                "commentNum": 1793
+            },
+            {
+                "index": "761",
+                "name": "Python高效开发实战——Django、Tornado、Flask、Twisted",
+                "commentNum": 1567
+            },
+            {
+                "index": "765",
+                "name": "PyQt5快速开发与实战",
+                "commentNum": 1525
+            }
+        ]
+    },
+    "commentnum_morethan10000_books": {
+        "commentnum_morethan10000_booksNum": 13,
+        "commentnum_morethan10000_books": [
+            {
+                "index": "2",
+                "name": "Python编程 从入门到实践 第2版",
+                "commentNum": 164713
+            },
+            {
+                "index": "4",
+                "name": "Python编程快速上手 让繁琐工作自动化（Python3编程从入门到实践 新手学习必备用书）",
+                "commentNum": 37526
+            },
+            {
+                "index": "7",
+                "name": "利用Python进行数据分析（原书第2版）",
+                "commentNum": 24371
+            },
+            {
+                "index": "8",
+                "name": "对比Excel，轻松学习Python数据分析",
+                "commentNum": 23608
+            },
+            {
+                "index": "19",
+                "name": "Python 3网络爬虫开发实战",
+                "commentNum": 15771
+            },
+            {
+                "index": "20",
+                "name": "Python基础教程（第3版）",
+                "commentNum": 22031
+            },
+            {
+                "index": "25",
+                "name": "Python核心编程 第3版",
+                "commentNum": 24662
+            },
+            {
+                "index": "28",
+                "name": "Python Cookbook（第3版）中文版",
+                "commentNum": 11129
+            },
+            {
+                "index": "29",
+                "name": "笨办法学Python 3",
+                "commentNum": 13860
+            },
+            {
+                "index": "57",
+                "name": "Python神经网络编程",
+                "commentNum": 11190
+            },
+            {
+                "index": "162",
+                "name": "教孩子学编程 Python语言版",
+                "commentNum": 15694
+            },
+            {
+                "index": "239",
+                "name": "码农翻身（好玩有趣的编程知识）",
+                "commentNum": 20370
+            },
+            {
+                "index": "543",
+                "name": "算法图解",
+                "commentNum": 16453
+            }
+        ]
+    }
+}
