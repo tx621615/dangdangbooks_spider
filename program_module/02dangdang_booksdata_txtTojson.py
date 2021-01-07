@@ -1,8 +1,4 @@
 """
-软设2班
-created by Tang Xin
-copyright USTC
-2021.1.4
 功能：该模块用于将数据文件从.txt文件转化为.json文件
 """
 
