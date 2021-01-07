@@ -1,8 +1,4 @@
 """
-软设2班
-created by Tang Xin
-copyright USTC
-2021.1.4
 功能：根据价格区间统计信息分别绘制所有书籍和热门书籍对应的饼图
 """
 
