@@ -1,8 +1,4 @@
 """
-软设2班
-created by Tang Xin
-copyright USTC
-2021.1.4
 功能: 根据评论数统计信息绘制相应饼图
 """
 
