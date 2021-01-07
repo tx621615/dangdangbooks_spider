@@ -1,8 +1,4 @@
 """
-软设2班
-created by Tang Xin
-copyright USTC
-2021.1.4
 功能：根据出版日期的统计信息绘制对应的条形图和饼图
 """
 
